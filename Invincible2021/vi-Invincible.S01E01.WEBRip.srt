@@ -1,498 +1,460 @@
 1
 00:00:18,458 --> 00:00:19,541
-Coffee?
+Cà phê không?
 
 2
 00:00:19,583 --> 00:00:20,833
-For sure.
+Đương nhiên rồi.
 
 3
 00:00:20,875 --> 00:00:22,125
-Thanks, man.
+Cám ơn nhiều.
 
 4
 00:00:23,083 --> 00:00:24,458
-You ready for next week?
+Anh sẵn sàng cho tuần sau rồi chứ?
 
 5
 00:00:24,500 --> 00:00:25,583
-What's next week?
+Tuần sau có gì?
 
 6
 00:00:25,625 --> 00:00:27,458
-Superhuman evasion training.
+Buổi tập duyệt khi siêu năng lực tấn công.
 
 7
 00:00:27,500 --> 00:00:29,166
-We have to get recertified.
+Chúng ta phải có lại được chứng chỉ chứ.
 
 8
 00:00:29,208 --> 00:00:30,875
-Look, I...
-I get the need,
+Nghe này, Tôi...
+Tôi hiểu điều này,
 
 9
 00:00:30,916 --> 00:00:32,291
-but it's the worst.
+nhưng đó là điều tồi tệ nhất.
 
 10
 00:00:32,333 --> 00:00:33,458
-When I was on the force,
+Khi còn ở trong lực lượng,
 
 11
 00:00:33,500 --> 00:00:35,059
-you had to do hand-to-hand
-training all the time.
+chúng ta phải tập luyện tay đôi với nhau mọi lúc.
 
 12
 00:00:35,083 --> 00:00:36,267
-The guy comes at you
-with a knife,
+Nếu có một thằng nào tiến tới ta với 1 con dao,
 
 13
 00:00:36,291 --> 00:00:37,416
-you gotta be ready,
+ta phải luôn sẵn sàng,
 
 14
 00:00:37,458 --> 00:00:40,166
-but, uh, this is...
-th-this is something else.
+nhưng, uh, chuyện này...
+chuyện này là một phạm trù khác.
 
 15
 00:00:40,208 --> 00:00:42,083
-I'm supposed to learn
-to tuck and roll
+Ta phải học núp và bò lăn đi
 
 16
 00:00:42,125 --> 00:00:43,291
-away from a guy
+khỏi một người
 
 17
 00:00:43,333 --> 00:00:44,791
-who can shoot lasers
-from his eyes,
+có thể bắn laser từ mắt hắn,
 
 18
 00:00:44,833 --> 00:00:46,958
-or control minds,
+hoặc điều khiển trí óc,
 
 19
 00:00:47,000 --> 00:00:50,250
-or kick a goddamn schoolbus
-to the moon?
+hay đá một chiếc xe buýt lên tới mặt trăng?
 
 20
 00:00:50,291 --> 00:00:52,291
-It's the job.
+Đây là công việc của mình.
 
 21
 00:00:52,333 --> 00:00:54,291
-You're awful calm
-about it.
+Anh bình thản về chuyện này đến sợ luôn ấy.
 
 22
 00:00:54,333 --> 00:00:55,916
-Hell, last time
-you sprained your back.
+Đm, lần trước anh còn bị bong gân ở lưng nữa.
 
 23
 00:00:55,958 --> 00:00:56,833
-You...
+Anh...
 
 24
 00:00:56,875 --> 00:00:57,875
-Aw, shit, wait,
+Aw, shit, đợi đã,
 
 25
 00:00:57,916 --> 00:00:59,434
-you're not even
-gonna be here, are you?
+anh thậm chí còn không ở đây, đúng không?
 
 26
 00:00:59,458 --> 00:01:01,083
-Sucks to be you!
+Do anh đen thôi!
 
 27
 00:01:02,083 --> 00:01:03,625
-I'll be living it up
-in London,
+Tôi sẽ sống cuộc sống ở London,
 
 28
 00:01:03,666 --> 00:01:05,416
-seeing the sights,
-eating Indian food.
+ngắm bầu trời,
+ăn đồ Ấn.
 
 29
 00:01:05,458 --> 00:01:06,666
-Enjoy getting laser burn.
+Chúc chú ăn laser dui nha.
 
 30
 00:01:06,708 --> 00:01:08,708
-Oh, you're gonna be gone
-the whole time?
+Ồ, anh sẽ đi hết đợt này ư?
 
 31
 00:01:08,750 --> 00:01:09,750
-All friggin' week?
+Nguyên cả tuần?
 
 32
 00:01:09,791 --> 00:01:10,583
-Two.
+Hai.
 
 33
 00:01:10,625 --> 00:01:12,333
-All of Matt's spring break.
+Nguyên cả kì nghỉ xuân của Matt luôn.
 
 34
 00:01:12,375 --> 00:01:14,041
-The boy is obsessed
-with The Beatles.
+Thằng bé bị u mê The Beatles.
 
 35
 00:01:14,083 --> 00:01:15,375
-He wants to go
-to Abbey Road,
+Nó muốn đến Abbey Road
 
 36
 00:01:15,416 --> 00:01:17,583
-he wants to visit
-Apple Records.
+nó muốn ghé thăm Apple Records.
 
 37
 00:01:17,625 --> 00:01:19,392
-I might even get to see
-some things I want to see,
+Tôi có thể còn được đến những nơi tối muốn đến nữa,
 
 38
 00:01:19,416 --> 00:01:20,250
-if we have time.
+nếu chúng tôi có thời gian.
 
 39
 00:01:20,291 --> 00:01:22,250
-And it's just the two of you?
+Chỉ có anh và Matt thôi sao?
 
 40
 00:01:22,291 --> 00:01:23,750
-You sure about that, Steve?
+Anh chắc về điều này chứ, Steve?
 
 41
 00:01:23,791 --> 00:01:25,125
-I thought you two
-hated each other
+Tôi tưởng 2 người ghét nhau
 
 42
 00:01:25,166 --> 00:01:26,791
-with the burning fury
-of a thousand suns.
+như hàng nghìn mặt trời nổi giận
 
 43
 00:01:28,208 --> 00:01:29,958
-Well, maybe a hundred.
+Chà, có lẽ là trăm thôi.
 
 44
 00:01:30,000 --> 00:01:33,833
-I mean, Matt,
-he had it rough, you know,
+Tôi nghĩ, Matt,
+Nó đang còn giai đoạn khó khăn, anh biết đấy,
 
 45
 00:01:33,875 --> 00:01:36,250
-but he's really
-pulled himself together.
+nhưng nó cũng đang rất cố gắng
+để sống tốt hơn.
 
 46
 00:01:36,291 --> 00:01:38,750
-With what you told me
-that kid was doing?
+Với những thứ mà anh nói cho tôi từ trước đến giờ?
 
 47
 00:01:38,791 --> 00:01:41,250
-The stealing, the drugs?
+Về ăn trộm, thuốc phiện ư?
 
 48
 00:01:41,291 --> 00:01:43,125
-How'd you turn that around?
+Sao anh có thể làm nó tốt hơn được chứ?
 
 49
 00:01:44,083 --> 00:01:45,500
-Good morning.
+Chào cô.
 
 50
 00:01:45,541 --> 00:01:46,750
-It wasn't easy.
+Nó không phải dễ dàng.
 
 51
 00:01:46,791 --> 00:01:47,791
-The thing is,
+Khi mà
 
 52
 00:01:47,833 --> 00:01:48,976
-when Molly and I
-first got together,
+Molly và tôi đến bên nhau,
 
 53
 00:01:49,000 --> 00:01:50,125
-he was living with his dad,
+nó vẫn đang còn ở với bố của nó,
 
 54
 00:01:50,166 --> 00:01:52,583
-and he was just running wild.
+và nó vẫn cứ tung hoành.
 
 55
 00:01:52,625 --> 00:01:55,250
-Kid was a real asshole.
+Thằng bé là một thằng khốn nạn.
 
 56
 00:01:55,291 --> 00:01:57,000
-You saw the shiner he gave me.
+Chú thấy thuốc chùi bóng nó đưa tôi rồi đấy.
 
 57
 00:01:57,041 --> 00:01:58,833
-That's all behind us now.
+Chuyện đã qua hết rồi.
 
 58
 00:01:58,875 --> 00:02:01,208
-He stared down his demons,
-and he...
+Nó đã nhìn thằng vào con quỷ của mình,
+và nó...
 
 59
 00:02:01,250 --> 00:02:04,125
-damn it, he conquered them.
+không tin được là nó đã tự vượt qua con quỷ đó.
 
 60
 00:02:04,166 --> 00:02:06,875
-I've never done anything
-that hard in my life.
+Tôi chưa bao giờ làm việc gì khó khăn như vậy trong đời.
 
 61
 00:02:06,916 --> 00:02:09,250
-We're so damn proud
-of the guy...
+Chúng tôi đã rất tự hào về thằng bé...
 
 62
 00:02:09,291 --> 00:02:11,416
-of the man that he's becoming.
+về chàng trai mà nó đang trở thành.
 
 63
 00:02:11,458 --> 00:02:13,333
-So he wants to go to London,
+Và nó muốn đi London,
 
 64
 00:02:13,375 --> 00:02:15,666
-Molly and I scraped together
-enough to make it happen.
+Molly và tôi đã cùng nhau gom góp tất cả
+để điều đó được xảy ra.
 
 65
 00:02:15,708 --> 00:02:16,750
-We wanted to show him
+Chúng tôi muốn cho nó thấy
 
 66
 00:02:16,791 --> 00:02:19,583
-how much we appreciate
-all his hard work.
+là chúng tôi đã tự hào về tất cả những gì mà nó đã làm được.
 
 67
 00:02:21,666 --> 00:02:23,583
-I never had a kid of my own.
+Tôi chưa từng có đứa con nào.
 
 68
 00:02:23,625 --> 00:02:24,684
-I wasn't there
-when he was born.
+Tôi cũng không ở bên cạnh khi nó chào đời.
 
 69
 00:02:24,708 --> 00:02:26,750
-I didn't teach him
-how to ride a bike,
+Tôi cũng không dạy cho nó lái xe,
 
 70
 00:02:26,791 --> 00:02:27,791
-or throw a ball...
+hay ném bóng...
 
 71
 00:02:30,125 --> 00:02:31,000
-...but in a few months,
+nhưng chỉ trong vài tháng,
 
 72
 00:02:31,041 --> 00:02:32,791
-when he walks
-across that stage,
+khi nó bước lên sảnh
 
 73
 00:02:32,833 --> 00:02:34,250
-and accepts that diploma...
+và đứng nhận chứng chỉ...
 
 74
 00:02:35,791 --> 00:02:37,875
-...that is my son.
+...tôi nhận ra nó là đứa con của tôi.
 
 75
 00:02:39,291 --> 00:02:42,583
-Oh, you... you just take
-all the time you need.
+Ôi, anh cứ thoải mái đi.
 
 76
 00:02:42,625 --> 00:02:44,416
-Why don't I just
-make some hot cocoa
+Tôi sẽ làm ly cacao nóng cho anh
 
 77
 00:02:44,458 --> 00:02:46,083
-to cheer up my sweet boy?
+để chúc mừng đứa con anh nha?
 
 78
 00:02:46,125 --> 00:02:48,125
-Come on, like you're not
-crying on my shoulder
+Thôi được rồi,
+làm như chú không khóc lên vai tôi
 
 79
 00:02:48,166 --> 00:02:49,875
-every time you don't get
-a second date?
+mỗi khi chú có lần hẹn thứ 2 ấy
 
 80
 00:02:51,125 --> 00:02:52,166
-What was...
+Clgt...
 
 81
 00:03:22,541 --> 00:03:25,250
-We were supposed
-to be inside.
+Đáng ra chúng ta phải ở bên trong.
 
 82
 00:03:25,291 --> 00:03:26,625
-I should never have trusted
+Tao đã không nên bao giờ tin tưởng
 
 83
 00:03:26,666 --> 00:03:29,291
-the flawed calculations
-of a clone.
+vào sự tính toán sai lệch của 1 thằng clone.
 
 84
 00:03:29,333 --> 00:03:30,291
-Clone?
+Clone ư?
 
 85
 00:03:30,333 --> 00:03:31,708
-I am not!
+Tao không phải!
 
 86
 00:03:34,208 --> 00:03:36,750
-This was always
-the plan.
+Tất cả đều nằm trong kế hoạch.
 
 87
 00:03:36,791 --> 00:03:38,333
-The president
-is targeting us,
+Tổng thống đang nhắm đến chúng ta,
 
 88
 00:03:38,375 --> 00:03:40,250
-so we shatter the illusion
-of his safety.
+nên chúng ta sẽ xóa đi sự viễn vong
+về sự an toàn của hắn.
 
 89
 00:03:40,291 --> 00:03:42,041
-It's not enough
-for us to kill him.
+Nó vẫn không đủ cho chúng ta giết hắn.
 
 90
 00:03:42,083 --> 00:03:43,458
-It has to be a spectacle.
+Nó phải thật đặc sắc kia.
 
 91
 00:03:45,583 --> 00:03:48,000
-You'd know this
-if you were truly the original.
+Mày sẽ biết điều này nếu mày là một thằng chính gốc (original).
 
 92
 00:03:49,000 --> 00:03:50,625
-Oh, god, oh, god, oh, god...
+Ôi chúa ơi, nam mô...
 
 93
 00:03:50,666 --> 00:03:51,916
-Refreshing.
+Mới mẻ gkê.
 
 94
 00:03:51,958 --> 00:03:52,958
-Kind of tickles.
+Khá là nhột đó.
 
 95
 00:03:53,000 --> 00:03:54,833
-Mm, I prefer
-a higher caliber.
+Mmm, Ta vẫn thích cỡ bự hơn.
 
 96
 00:03:59,958 --> 00:04:01,458
-Huh?
+Hả?
 
 97
 00:04:01,500 --> 00:04:03,875
-I order...
+Tôi yêu cầu...
 
 98
 00:04:03,916 --> 00:04:05,541
-I order...
+Tôi yêu cầu...
 
 99
 00:04:05,583 --> 00:04:08,041
-I order you...
+Tôi yêu cầu các anh...
 
 100
 00:04:08,083 --> 00:04:09,541
-You order what?
+Mày yêu cầu gì cơ?
 
 101
 00:04:14,875 --> 00:04:16,250
-Kill that one
-and move on!
+Giết tên đó đi rồi tiếp tục thôi!
 
 102
 00:04:16,291 --> 00:04:18,166
-Your eye is as replaceable
-as you are.
+Mắt của mày cũng có thể thay thế như mày đó.
 
 103
 00:04:18,208 --> 00:04:20,166
-I am the original!
+Tao là original!
 
 104
 00:04:21,375 --> 00:04:22,666
-Steve, look out!
+Steve, coi chừng!
 
 105
 00:04:36,000 --> 00:04:37,291
-Sorry I'm late!
+Xin lỗi tôi đến muộn!
 
 106
 00:04:37,333 --> 00:04:39,125
 Red Rush,
-get this guy out of here!
+đưa anh chàng này ra khỏi đây
 
 107
 00:04:39,166 --> 00:04:40,375
-Focus on evac!
+Tập trung vào việc di tản!
 
 108
 00:04:40,416 --> 00:04:43,541
-We can deal with these two
-once the area is clear!
+Chúng ta có thể xử lý 2 tên này khi khu vực được an toàn.
 
 109
 00:04:47,166 --> 00:04:49,041
-We can take it from here!
-
+Chúng tôi có thể xử lý từ đây được rồi
+Sorry
 110
 00:04:49,083 --> 00:04:51,625
-Fall back, help us
-evacuate civilians!
+Lùi về, giúp chúng tôi di tản cư dân
 
 111
 00:04:51,666 --> 00:04:52,625
-Yes, ma'am!
+Vâng.
 
 112
 00:04:52,666 --> 00:04:53,833
-Damn it! Run!
+Chạy nhanh đi.
 
 113
 00:04:55,791 --> 00:04:57,666
@@ -500,195 +462,189 @@ War Woman...
 
 114
 00:04:58,833 --> 00:05:02,041
-Please, you couldn't just
-sit this one out?
+Làm ơn, cô không thể bỏ qua chuyện này sao?
 
 115
 00:05:02,083 --> 00:05:03,875
-Let us kill the President?
+Để tụi tao giết Tổng thống?
 
 116
 00:05:03,916 --> 00:05:05,208
-Haven't you earned a day off?
+Cô sẽ được ngày nghỉ đấy
 
 117
 00:05:05,250 --> 00:05:06,250
-Not our style.
+Không phải style của tụi này
 
 118
 00:05:06,291 --> 00:05:07,291
-Sorry.
+Xin lỗi nha.
 
 119
 00:05:08,291 --> 00:05:09,583
-This isn't
-a spectator sport!
+Đây không phải là nơi xem thể thao!
 
 120
 00:05:09,625 --> 00:05:10,625
-Move!
+Ra khỏi đây nhanh!
 
 121
 00:05:13,916 --> 00:05:14,916
-No!
+Ôi không!
 
 122
 00:05:16,708 --> 00:05:19,028
-Stay together, stay together,
-stay together, stay together!
+Ở cạnh nhau, ở cạnh nhau,
+ở cạnh nhau, ở cạnh nhau!
 
 123
 00:05:23,666 --> 00:05:24,833
-Don't move.
+Bình tĩnh.
 
 124
 00:05:24,875 --> 00:05:25,958
-You're safe now.
+Tụi con an toàn rồi.
 
 125
 00:05:26,000 --> 00:05:27,000
-I got 'em!
+Có tôi đây rồi!
 
 126
 00:05:29,875 --> 00:05:30,875
-They're in the clear.
+Bọn chúng đã ở nơi an toàn.
 
 127
 00:05:32,291 --> 00:05:34,541
-- You are on President duty.
-- On it.
+- Cô lo cho Tổng thống đi.
+- Oke la.
 
 128
 00:05:35,833 --> 00:05:38,291
-Sorry, I wouldn't normally
-move so fast,
+Xin lỗi, tôi hiếm khi chạy nhanh như thế này,
 
 129
 00:05:38,333 --> 00:05:39,434
-but there were
-so many of you that...
+nhưng vì có nhiều người...
 
 130
 00:05:39,458 --> 00:05:41,250
-Oh, no.
+Ôi, không.
 
 131
 00:05:41,291 --> 00:05:42,476
-It starts with one of you,
-then it...
+Nó bắt đầu với 1 trong mấy người,
+và nó...
 
 132
 00:05:46,083 --> 00:05:48,375
-Oh! Sorry.
+Xin lỗi
 
 133
 00:05:48,416 --> 00:05:49,458
-I can't...
+Tôi không thể...
 
 134
 00:06:01,625 --> 00:06:02,625
-Huh?
+Hả?
 
 135
 00:06:03,916 --> 00:06:04,791
-Now!
+Ngay bây giờ!
 
 136
 00:06:04,833 --> 00:06:06,083
-While he's distracted!
+Khi hắn còn đang bận bịu!
 
 137
 00:06:06,125 --> 00:06:07,291
-This floor looks clear.
+Tầng này trong có vẻ an toàn.
 
 138
 00:06:07,333 --> 00:06:10,500
-I'll go up,
-you go down.
+Tôi sẽ đi lên,
+anh đi xuống.
 
 139
 00:06:49,500 --> 00:06:50,500
-I've got you.
+Có tôi đây.
 
 140
 00:06:50,541 --> 00:06:51,541
-We're gonna be fine.
+Chúng ta sẽ ổn thôi.
 
 141
 00:06:51,583 --> 00:06:53,000
-We'll get out of this.
+Chúng ta sẽ thoát khỏi đây.
 
 142
 00:07:09,333 --> 00:07:13,708
-No, no,
-what about you?
+Không, không,
+Còn anh thì xao?
 
 143
 00:07:32,083 --> 00:07:33,708
-Behind you.
+Đằng sau anh.
 
 144
 00:07:38,583 --> 00:07:39,791
-You're welcome.
+Không có gì.
 
 145
 00:07:39,833 --> 00:07:41,541
-Get those soldiers out of here!
+Dẫn binh lính ra khỏi đây!
 
 146
 00:07:45,541 --> 00:07:46,458
-We can take it from here.
+Chúng tôi có thể xử lý từ đây.
 
 147
 00:07:46,500 --> 00:07:47,666
-Too dangerous for you.
+Quá nguy hiểm đối với tụi anh.
 
 148
 00:07:49,166 --> 00:07:50,476
-When we crush
+Khi tụi ta hạ
 the Guardians of the Globe
 
 149
 00:07:50,500 --> 00:07:52,000
-and kill the president,
+và giết tổng thống,
 
 150
 00:07:52,041 --> 00:07:54,500
-no one will be left
-to stop us!
+sẽ không còn ai để ngăn tụi tao!
 
 151
 00:08:08,500 --> 00:08:09,541
-Take my hand!
+Nắm lấy tay tôi!
 
 152
 00:08:11,916 --> 00:08:13,208
-I had him.
+Có tôi đây rồi.
 
 153
 00:08:17,458 --> 00:08:19,083
-Ah. All clear.
+Ah. Tất cả đã an toàn.
 
 154
 00:08:19,125 --> 00:08:20,791
-The building is clear.
+Tòa nhà đã an toàn.
 
 155
 00:08:20,833 --> 00:08:21,750
-It's just us.
+Chỉ còn chúng ta.
 
 156
 00:08:21,791 --> 00:08:22,916
-Evacuation complete.
+Việc di tản hoàn thành.
 
 157
 00:08:22,958 --> 00:08:23,958
-Now we can cut loose
+Giờ chúng ta có thể thoải mái
 
 158
 00:08:24,000 --> 00:08:26,208
-and focus on
-taking these brutes down.
+và tập trung vào hạ 2 tên này.
 
 159
 00:08:39,875 --> 00:08:41,541
@@ -708,73 +664,68 @@ Ah!
 
 163
 00:09:18,458 --> 00:09:20,083
-Mom? What!
+Mẹ? Chuyện gì thế!
 
 164
 00:09:20,125 --> 00:09:21,125
-I'll be out in a minute!
+Con sẽ ra trong 1 phút nữa thôi!
 
 165
 00:09:21,875 --> 00:09:22,750
-I don't have
-a minute.
+Mẹ không có 1 phút.
 
 166
 00:09:22,791 --> 00:09:23,583
-Mom!
+Mẹ!
 
 167
 00:09:23,625 --> 00:09:24,666
-My bathroom's
-out of soap.
+Phòng tắm của mẹ hết xà bông rồi.
 
 168
 00:09:24,708 --> 00:09:26,083
-Get over yourself.
+Thôi đi.
 
 169
 00:09:26,125 --> 00:09:27,916
-I used to change
-your diapers, kid.
+Mẹ từng thay tã cho con đấy, nhóc.
 
 170
 00:09:27,958 --> 00:09:28,791
-There's nothing
-going on down there
+Không có gì dưới đó
 
 171
 00:09:28,833 --> 00:09:29,666
-I haven't seen before.
+Mà mẹ chưa thấy cả.
 
 172
 00:09:29,708 --> 00:09:31,583
-Just get out!
+Ra khỏi đây đi!
 
 173
 00:09:32,500 --> 00:09:34,166
-As you can see,
+Như mọi người có thể thấy,
 
 174
 00:09:34,208 --> 00:09:37,333
-the scene is absolute chaos
-as the Mauler twins...
+cảnh tượng này là một thứ hỗn loạn
+khi mà anh em song sinh Mauler...
 
 175
 00:09:37,375 --> 00:09:39,250
-Looks like
-Dad's saving the White House.
+Có vẻ như bố vừa cứu Nhà trắng.
 
 176
 00:09:39,291 --> 00:09:40,125
-Alone?
+Một mình ư?
 
 177
 00:09:40,166 --> 00:09:41,416
-Guardians are there, too.
+Guardians cũng có mặt.
 
 178
 00:09:41,458 --> 00:09:43,000
-Who are they fighting?
+Bọn họ đánh với ai zị?
 
 179
 00:09:43,041 --> 00:09:44,916
@@ -782,118 +733,110 @@ Ugh, Mauler Twins.
 
 180
 00:09:44,958 --> 00:09:46,351
-Looks like we won't be
-getting breakfast together
+Có vẻ như chúng ta sẽ không được
 
 181
 00:09:46,375 --> 00:09:47,333
-this morning.
+ăn sáng cùng nhau sáng nay rồi.
 
 182
 00:09:47,375 --> 00:09:48,333
-Bummer.
+Xúi quẩy.
 
 183
 00:09:48,375 --> 00:09:49,750
-It's the White House, Mom.
+Là Nhà trắng đó, mẹ.
 
 184
 00:09:49,791 --> 00:09:51,000
-Kind of important.
+Khá là quan trọng.
 
 185
 00:09:51,041 --> 00:09:54,833
-Oh, they rebuild that thing
-twice a year at this point.
+Ồ, giờ người ta tái xây dựng chỗ đó 
+2 lần mỗi năm rồi.
 
 186
 00:09:54,875 --> 00:09:55,916
-If it's not Doc Seismic,
+Nếu không phải là Doc Seismic,
 
 187
 00:09:55,958 --> 00:09:57,708
-it's the Lizard League,
-or someone else.
+thì là Lizard League,
+hoặc một ai khác.
 
 188
 00:09:57,750 --> 00:09:59,310
-I doubt the President
-still lives there.
+Mẹ không tin là Tổng thống còn sống ở đó.
 
 189
 00:10:01,583 --> 00:10:02,500
-I'm not too late!
+Anh không quá trễ!
 
 190
 00:10:02,541 --> 00:10:03,750
-I'm gonna shower.
+Anh đi tắm đã.
 
 191
 00:10:03,791 --> 00:10:05,166
-Not so fast.
+Gì nhanh vậy.
 
 192
 00:10:05,208 --> 00:10:06,333
-Come here first.
+Lại đây đã nào.
 
 193
 00:10:09,500 --> 00:10:11,500
-Don't make me
-get the spray bottle.
+Đừng làm con phải đi lấy bình xịt.
 
 194
 00:10:12,875 --> 00:10:16,125
-Now, let's get you
-out of that costume.
+Bây giờ, đưa anh ra khỏi bộ đồ này nào.
 
 195
 00:10:16,166 --> 00:10:17,583
-Boundaries, people!
+Giới hạn, mọi người ơi!
 
 196
 00:10:18,958 --> 00:10:20,500
-Bathroom doors
-are closed for a reason,
+Cửa phòng vệ sinh đóng vì có lý do của nó,
 
 197
 00:10:20,541 --> 00:10:22,267
-and parents should never,
-ever talk about sex
+và phụ huynh không nên nói chuyện về tình dục
 
 198
 00:10:22,291 --> 00:10:24,000
-in front of their kids!
+trước mặt con trẻ!
 
 199
 00:10:24,041 --> 00:10:27,458
-You should be overjoyed
-to see your parents
+Con nên vui vì thấy cha mẹ mình
 
 200
 00:10:27,500 --> 00:10:30,166
-passionately expressing
-their love for each other.
+thể hiện tình yêu của mình với nhau.
 
 201
 00:10:30,208 --> 00:10:31,583
-Now stop griping.
+Giờ thì thôi bí xị đi.
 
 202
 00:10:31,625 --> 00:10:32,750
-Get ready for school.
+Chuẩn bị đến trường.
 
 203
 00:10:32,791 --> 00:10:35,416
-Couldn't you at least wait
-until I leave the house...
+Hai người không thể đợi cho
+đến lúc con ra khỏi nhà...
 
 204
 00:10:35,458 --> 00:10:36,791
-for college!
+để lên đại học hay sao!
 
 205
 00:10:38,000 --> 00:10:39,541
-What were you thinking?
+Anh đang nghĩ ở đâu đấy?
 
 206
 00:10:39,583 --> 00:10:40,458
@@ -901,100 +844,92 @@ Paris?
 
 207
 00:10:40,500 --> 00:10:41,601
-Actually,
-I was kind of pulling
+Thực ra anh đã
 
 208
 00:10:41,625 --> 00:10:42,958
-for that little cafe
-in Berlin.
+uống 1 ít cafe ở Berlin rồi.
 
 209
 00:10:43,000 --> 00:10:45,250
-I've been jonesing
-for those sausages.
+Anh đã thèm xúc xích ở đó từ lâu rồi.
 
 210
 00:10:46,166 --> 00:10:47,767
-Aw, man, you guys
-are going to Best Wurst?
+Ui, hai người tính đi Best Wurst thiệt hả?
 
 211
 00:10:47,791 --> 00:10:49,333
-I love that place!
+Con thích chỗ đó!
 
 212
 00:10:49,375 --> 00:10:50,541
-You've got school.
+Con còn phải đến trường.
 
 213
 00:10:50,583 --> 00:10:52,583
-When your powers kick in,
-you can go on your own.
+Khi sức mạnh của con thức tỉnh,
+con có thể tự đến đó.
 
 214
 00:10:52,625 --> 00:10:55,166
-Salt on the wound, Dad.
+Cha lại xát muối vào nỗi đau nữa rồi.
 
 215
 00:10:55,208 --> 00:10:57,875
-They've gotta be due
-any day now, son.
+Nó sẽ đến sớm thôi con trai ạ.
 
 216
 00:10:57,916 --> 00:10:59,916
-Even the latest bloomers
-on Viltrum
+Kể cả những người muộn nhất ở Viltrum
 
 217
 00:10:59,958 --> 00:11:00,916
-would get their powers
+cũng sẽ có sức mạnh
 
 218
 00:11:00,958 --> 00:11:03,458
-before what would be
-their 18th birthday.
+khi họ đến sinh nhật thứ 18 của mình.
 
 219
 00:11:03,500 --> 00:11:04,541
-You'll see.
+Con sẽ thấy.
 
 220
 00:11:04,583 --> 00:11:05,863
-Don't get his hopes up.
+Đừng làm thằng bé thêm hi vọng nữa.
 
 221
 00:11:09,916 --> 00:11:10,958
-Bye!
+Bái bai!
 
 222
 00:11:11,000 --> 00:11:12,458
-Have fun!
+Chúc 2 người dui!
 
 223
 00:11:12,500 --> 00:11:13,666
-I'll just be walking,
+Con sẽ chỉ đi bộ,
 
 224
 00:11:13,708 --> 00:11:14,708
-on the ground,
+trên mặt đất,
 
 225
 00:11:14,750 --> 00:11:15,625
-with my feet.
+bằng chân mình.
 
 226
 00:11:34,458 --> 00:11:36,541
-Morning.
+Chào đằng đấy.
 
 227
 00:11:38,333 --> 00:11:39,958
-Uh, just, uh...
+À, chỉ là, ờ...
 
 228
 00:11:40,000 --> 00:11:43,166
-just trying to break in
-these new shoes.
+tui chỉ là đang cố xỏ đôi giày mới này vào thôi.
 
 229
 00:11:43,208 --> 00:11:46,083
@@ -1003,227 +938,212 @@ Ugh!
 230
 00:11:50,583 --> 00:11:52,750
 Mauler Twins
-attack the White House?
+tấn công Nhà trắng ư?
 
 231
 00:11:52,791 --> 00:11:53,791
-Nuts, right?
+Điên rồ, đúng không?
 
 232
 00:11:53,833 --> 00:11:54,833
-I saw.
+Tớ thấy rồi.
 
 233
 00:11:54,875 --> 00:11:56,392
-I can't believe
+Không thể tin được là
 the Guardians of the Globe
 
 234
 00:11:56,416 --> 00:11:59,166
-let them get that close
-to killing the President.
+để chúng đến gần để giết Tổng thống như vậy.
 
 235
 00:11:59,208 --> 00:12:00,726
-They didn't even get
-into the building,
+Chúng thậm chí còn không thể vào tòa nhà,
 
 236
 00:12:00,750 --> 00:12:02,375
-and Omni-Man was there, too.
+và Omni-Man cũng đã ở đó.
 
 237
 00:12:02,416 --> 00:12:04,916
-You're such
-an Omni-Maniac.
+Cậu đúng là đồ khùng (Omni-Maniac)
 
 238
 00:12:04,958 --> 00:12:06,500
-Way to root
-for the underdog.
+Ủng hộ cho underdog hay lắm.
 
 239
 00:12:06,541 --> 00:12:08,750
-Big fan of the Yankees,
-are you?
+Fan cuồng mấy người ngạo mạn đó hả?
 
 240
 00:12:08,791 --> 00:12:10,833
-Sure, he's hot and all,
+Đúng thật là ông ta đẹp trai và nhiều thứ,
 
 241
 00:12:10,875 --> 00:12:12,333
-and that mustache...
+và cả những cơ bắp ấy...
 
 242
 00:12:13,791 --> 00:12:14,625
-Sorry!
+Xin lỗi!
 
 243
 00:12:14,666 --> 00:12:16,375
-Okay, straight stuff.
+Được rồi, nói chiện thẳng nè.
 
 244
 00:12:16,416 --> 00:12:17,875
-You up for some
-Clash Crash tonight?
+Cậu có muốn làm ít 
+Clash Crash tối nay không?
 
 245
 00:12:17,916 --> 00:12:19,750
-I'm hoping for a Level 43
-chest armor.
+Tớ đang hi vọng có được cái áo giáp
+Level 43.
 
 246
 00:12:21,708 --> 00:12:23,375
-Don't bring up
-that stupid job, man.
+Đừng làm công việc ngu ngốk đó nữa.
 
 247
 00:12:23,416 --> 00:12:24,583
-Don't be that person.
+Đừng làm con người đó.
 
 248
 00:12:24,625 --> 00:12:26,226
-When's the last time
-you bought a comic book?
+Lần cuối cậu mua truyện tranh là khi nào hả?
 
 249
 00:12:26,250 --> 00:12:27,666
-Those things are expensive,
+Những thứ đó đắt tiền lắm,
 
 250
 00:12:27,708 --> 00:12:30,416
-and they're doing Seance Dog
-twice a month all summer.
+và người ta xuất bản Seance Dog 
+2 lần 1 tháng cho hè này đấy.
 
 251
 00:12:30,458 --> 00:12:32,333
-You're into
-the stupidest stuff.
+Cậu dính vào mấy thứ hút máu đó rồi.
 
 252
 00:12:32,375 --> 00:12:34,750
-Knock it off, Todd!
+Để tớ yên đi, Todd!
 
 253
 00:12:34,791 --> 00:12:36,166
-Come on...
+Thôi nào...
 
 254
 00:12:36,208 --> 00:12:37,375
-Quit playing games.
+Đừng ra vẻ nữa.
 
 255
 00:12:37,416 --> 00:12:38,666
-I know you're crazy about me.
+Mình biết là cậu điên dại vì mình.
 
 256
 00:12:38,708 --> 00:12:40,250
-Marcy told me.
+Marcy đã kể cho mình nghe.
 
 257
 00:12:40,291 --> 00:12:43,250
-Well, you are
-big and strong, aren't you?
+Chà, cậu to và khỏe lắm đúng không?
 
 258
 00:12:43,291 --> 00:12:44,250
-You know it.
+Cậu biết mà.
 
 259
 00:12:44,291 --> 00:12:46,166
-And you think
-that makes it okay
+Và cậu nghĩ điều đó là đúng đắn
 
 260
 00:12:46,208 --> 00:12:47,625
-for you to harass me?
+để cậu có thể làm phiền tôi?
 
 261
 00:12:47,666 --> 00:12:49,500
-Hey, don't walk away from me.
+Này, cậu đừng có phủ phàng như thế.
 
 262
 00:12:49,541 --> 00:12:51,250
-What, are you
-a lesbian or something?
+Cậu là lesbian hả?
 
 263
 00:12:51,291 --> 00:12:53,833
-Oh, my god, I wish!
+Oimeoi, tôi ước là thế!
 
 264
 00:12:53,875 --> 00:12:55,333
-Would you
-leave me alone then?
+Điều đó có đủ để cậu để tôi yên không?
 
 265
 00:12:55,375 --> 00:12:56,458
-Let go of me,
+Bỏ tôi ra,
 
 266
 00:12:56,500 --> 00:12:58,250
-so I can go find
-a girl to kiss!
+để tôi còn đi kiếm đứa con gái khác để hôn!
 
 267
 00:12:58,291 --> 00:12:59,291
-Don't.
+Đừng.
 
 268
 00:12:59,333 --> 00:13:00,666
-Guy's twice your size.
+Tên đó gấp đôi cậu đấy.
 
 269
 00:13:00,708 --> 00:13:02,017
-Maybe you can just
-sit back and watch this?
+Cậu có thể ngồi yên và xem cảnh này.
 
 270
 00:13:02,041 --> 00:13:03,000
-I can't.
+Nhưng tớ thì không thể
 
 271
 00:13:03,041 --> 00:13:05,041
-I can because
-I'm not Omni-Man,
+Tớ có thể vì tớ không phải 
+Omni-Man,
 
 272
 00:13:05,083 --> 00:13:06,458
-and neither are you.
+và cậu cũng vậy
 
 273
 00:13:06,500 --> 00:13:07,958
-Let's see.
+Để xem.
 
 274
 00:13:09,166 --> 00:13:10,458
-I think Amber's
-been pretty clear
+Tớ nghĩ Amber đã nói khá là rõ ràng
 
 275
 00:13:10,500 --> 00:13:13,708
-about how she feels, Todd.
+rồi đấy, Todd.
 
 276
 00:13:13,750 --> 00:13:14,708
-Are you serious, Grayson?
+Mày đùa tao hả, Grayson?
 
 277
 00:13:14,750 --> 00:13:15,750
-Look...
+Nghe này...
 
 278
 00:13:21,791 --> 00:13:23,333
-Leave him alone!
+Để cậu ta yên!
 
 279
 00:13:25,541 --> 00:13:26,916
-What are you lookin' at?
+Tụi mày nhìn cái gì hả?
 
 280
 00:13:30,875 --> 00:13:32,125
-Thank you.
+Cám ơn.
 
 281
 00:13:32,166 --> 00:13:33,166
@@ -1231,7 +1151,7 @@ Yup.
 
 282
 00:14:14,958 --> 00:14:16,416
-Close one.
+Suýt chút nữa.
 
 283
 00:14:20,250 --> 00:14:21,458
@@ -1239,307 +1159,284 @@ Huh.
 
 284
 00:14:22,791 --> 00:14:25,291
-It's about time.
+Vừa đúng lúc đấy.
 
 285
 00:14:29,541 --> 00:14:32,083
-And a big welcome home
-to my favorite son.
+Và lời chào mừng cho con trai của mẹ
 
 286
 00:14:32,125 --> 00:14:33,291
-I made some chicken,
+Mẹ đã làm gà,
 
 287
 00:14:33,333 --> 00:14:36,375
-but I also heated up
-some authentic German bratwurst
+và đã nướng thêm ít xúc xích Đức nữa
 
 288
 00:14:36,416 --> 00:14:37,458
-flown in special today,
+cho ngày trọng đại này,
 
 289
 00:14:37,500 --> 00:14:38,458
-just for you.
+chỉ cho con.
 
 290
 00:14:38,500 --> 00:14:42,750
-I... had
-a pretty interesting day.
+Con... đã có một ngày khá thú vị.
 
 291
 00:14:45,083 --> 00:14:46,250
-Sorry I'm late.
+Xin lỗi anh về muộn.
 
 292
 00:14:46,291 --> 00:14:48,833
-Honest to god, a dragon
-was attacking Hong Kong.
+Thề với chúa, một con rồng vừa tấn công Hồng Kông.
 
 293
 00:14:48,875 --> 00:14:49,708
-I stopped it.
+Và anh đã ngăn lại.
 
 294
 00:14:49,750 --> 00:14:51,166
-Ooh, a dragon.
-Nice.
+Ồ, một con rồng.
+Tuyệt thật.
 
 295
 00:14:51,208 --> 00:14:52,583
-Mark was getting ready
-to tell us
+Mark đang chuẩn bị để nói với chúng ta
 
 296
 00:14:52,625 --> 00:14:54,083
-how interesting
-his day was.
+ngày hôm nay của nó thú vị như thế nào đấy.
 
 297
 00:14:54,125 --> 00:14:57,666
-Guess who's finally
-getting his powers?
+Đoán xem ai cuối cùng đã có sức mạnh nào?
 
 298
 00:14:59,125 --> 00:15:00,416
-Are you sure?
+Con chắc chứ?
 
 299
 00:15:00,458 --> 00:15:02,041
-Pretty sure.
+Khá là chắc ạ.
 
 300
 00:15:02,083 --> 00:15:04,583
-Threw a trash bag into space
-at work.
+Con đã ném 1 bịch rác lên trời khi đi làm.
 
 301
 00:15:06,958 --> 00:15:09,416
-Oh, that's great, Son,
+Ồ, điều này tuyệt thật đấy con trai,
 
 302
 00:15:09,458 --> 00:15:10,666
-just great!
+rất tuyệt!
 
 303
 00:15:10,708 --> 00:15:11,791
-If you're up for it,
+Nếu con muốn,
 
 304
 00:15:11,833 --> 00:15:13,017
-I'll make some time
-tomorrow for training.
+Bố sẽ dành thời gian giúp con
+huấn luyện vào ngày mai.
 
 305
 00:15:13,041 --> 00:15:14,125
-This is so exciting!
+Chuyện này thích thật đấy!
 
 306
 00:15:14,166 --> 00:15:15,351
-Bright and early
-tomorrow, Mark.
+Sáng sớm mai nha, Mark.
 
 307
 00:15:15,375 --> 00:15:16,767
-Make sure you get
-a good night's sleep.
+Nhớ ngủ đủ giấc đấy.
 
 308
 00:15:16,791 --> 00:15:18,333
-Ha! For sure!
+Ha! Chắc chắn rồi!
 
 309
 00:15:29,416 --> 00:15:32,916
-Okay, Son, bear with me...
+Được rồi, con trai nghe ta nói này...
 
 310
 00:15:32,958 --> 00:15:37,000
-This is gonna be a little
-awkward for both of us.
+Chuyện này có thể khá khó xử với cả 2 chúng ta.
 
 311
 00:15:37,041 --> 00:15:38,416
-You may have noticed
+Con có thể thấy
 
 312
 00:15:38,458 --> 00:15:41,916
-that I'm not like
-normal dads.
+ta không như những người bố bình thường khác.
 
 313
 00:15:41,958 --> 00:15:44,833
-Your mother and I think
-it's time you knew the truth.
+Mẹ con và ta nghĩ đã đến lúc cho con biết sự thật.
 
 314
 00:15:44,875 --> 00:15:47,708
-We think you're old enough
-for me to tell you
+Chúng ta nghĩ là con đã đủ lớn để ta nói ra
 
 315
 00:15:47,750 --> 00:15:50,333
-where I really come from.
+ta đến từ đâu.
 
 316
 00:15:50,375 --> 00:15:52,375
-Millions of miles from here,
+Hàng triệu dặm từ đây,
 
 317
 00:15:52,416 --> 00:15:53,916
-out in deep space,
+vào khoảng không xa xăm,
 
 318
 00:15:53,958 --> 00:15:56,791
-is the planet Viltrum...
+là hành tinh Viltrum...
 
 319
 00:15:56,833 --> 00:15:59,125
-It's a cool blue oasis
+Đó là một ốc đảo màu xanh
 
 320
 00:15:59,166 --> 00:16:02,375
-alone in a solar system
-much like our own.
+nằm một mình giữa dãi ngân hà gần giống như ở đây.
 
 321
 00:16:02,416 --> 00:16:04,208
-I was born on this planet.
+Ta đã được sinh ra trên hành tinh này.
 
 322
 00:16:04,250 --> 00:16:07,083
 Viltrumites
-are very similar to humans,
+rất giống với con người ở trái đất,
 
 323
 00:16:07,125 --> 00:16:08,583
-except we can fly,
+ngoại trừ việc chúng ta có thể bay,
 
 324
 00:16:08,625 --> 00:16:10,541
-move at super speed,
+di chuyển với siêu tốc độ
 
 325
 00:16:10,583 --> 00:16:13,125
-and possess great strength.
+và sở hữu sức mạnh phi thường.
 
 326
 00:16:13,166 --> 00:16:14,750
-When our people come of age,
+Khi con người ở đó đến tuổi,
 
 327
 00:16:14,791 --> 00:16:16,000
-we leave Viltrum,
+chúng ta rời Viltrum,
 
 328
 00:16:16,041 --> 00:16:18,125
-and venture out
-into the galaxy,
+và mạo hiểm đi ra ngoài ngân hà, 
 
 329
 00:16:18,166 --> 00:16:21,375
-using our abilities to help
-lesser-developed worlds.
+dùng sức mạnh của chúng ta để phát triển
+những thế giới kém phát triển hơn,
 
 330
 00:16:21,416 --> 00:16:23,208
-I volunteered to relocate
-to Earth,
+Bố tình nguyện di chuyển đến Trái đất
 
 331
 00:16:23,250 --> 00:16:25,541
-and be its sole protector.
+và là người bảo vệ trụ cột
 
 332
 00:16:26,500 --> 00:16:27,791
-That's when I met
-your mother...
+Đó là khi ta gặp mẹ con...
 
 333
 00:16:30,083 --> 00:16:32,958
-and we eventually had you.
+và chúng ta đã có con.
 
 334
 00:16:33,000 --> 00:16:37,291
-I know this is a lot
-to take in at one time,
+Bố biết chuyện này rất khó để tiếp thu
+trong một khoảng thời gian ngắn,
 
 335
 00:16:37,333 --> 00:16:40,541
-but you're
-half Viltrumite, Son,
+nhưng con là một bán Viltrumite, con trai,
 
 336
 00:16:40,583 --> 00:16:42,458
-and you're getting older.
+và khi con lớn lên.
 
 337
 00:16:42,500 --> 00:16:44,958
-Things are gonna
-start to change for you
+Sẽ có nhiều điều sẽ thay đổi ở con
 
 338
 00:16:45,000 --> 00:16:46,166
-in a few years
+thêm vài năm nữa
 
 339
 00:16:46,208 --> 00:16:47,541
-as you hit puberty.
+khi con đến tuổi dậy thì.
 
 340
 00:16:47,583 --> 00:16:50,333
-You're gonna get acne.
+Con sẽ có mụn.
 
 341
 00:16:50,375 --> 00:16:53,958
-Your voice will start to crack
-as it begins to change.
+Giọng nói của con sẽ sớm thay đổi
 
 342
 00:16:54,000 --> 00:16:57,541
-You'll begin to grow hair
-in strange places,
+Con sẽ bắt đầu mọc tóc ở những chỗ lạ =))),
 
 343
 00:16:57,583 --> 00:17:01,000
-and you're gonna start
-to develop superpowers
+và con sẽ bắt đầu phát triển những siêu năng lực
 
 344
 00:17:01,041 --> 00:17:02,541
-of your own.
+của chính mình.
 
 345
 00:17:02,583 --> 00:17:03,541
-Just like me,
+Giống như bố,
 
 346
 00:17:03,583 --> 00:17:05,458
-super strength and speed,
+sức mạnh và tốc độ phi thường,
 
 347
 00:17:05,500 --> 00:17:07,291
-flight, the whole bit.
+khả năng bay, tất cả.
 
 348
 00:17:07,333 --> 00:17:09,291
-Do you understand?
+Con hiểu chứ?
 
 349
 00:17:12,416 --> 00:17:15,375
-I'm gonna be able to fly?
+Con sẽ có thể bay ư?
 
 350
 00:17:15,416 --> 00:17:16,916
-Yes, Son,
+Đúng vậy, con trai,
 
 351
 00:17:16,958 --> 00:17:20,583
-you're gonna be able to fly...
+con sẽ có thể bay...
 
 352
 00:17:20,625 --> 00:17:23,083
-I'm gonna be able to fly.
+Mình sẽ có thể bay.
 
 353
 00:17:27,125 --> 00:17:28,500
@@ -1547,54 +1444,52 @@ Whew.
 
 354
 00:17:28,541 --> 00:17:29,666
-Don't look down...
+Đừng nhìn xuống...
 
 355
 00:17:29,708 --> 00:17:30,583
-Stop looking down!
+Đừng nhìn xuống nữa!
 
 356
 00:17:30,625 --> 00:17:32,250
-I'm not going down.
+Mình không nhìn xuống.
 
 357
 00:17:32,291 --> 00:17:33,250
-I'm gonna fly up,
+Mình sẽ bay,
 
 358
 00:17:33,291 --> 00:17:35,333
-because I can fly.
+Vì mình có thể bay.
 
 359
 00:17:36,166 --> 00:17:38,041
-What if I can't yet?
+Nếu như mình chưa thể bay thì sao?
 
 360
 00:17:38,083 --> 00:17:39,291
-No, no, no, okay.
+Không, không, không, được rồi.
 
 361
 00:17:39,333 --> 00:17:41,166
-Dad always said
-it was like a reflex,
+Bố luôn nói rằng nó như là phản xạ,
 
 362
 00:17:41,208 --> 00:17:43,083
-so if I don't want to fall,
-I won't,
+vậy nếu mình không muốn bị ngã, mình sẽ không bị
 
 363
 00:17:43,125 --> 00:17:45,541
-and even if I do,
-maybe it won't even hurt,
+và nếu mình có lỡ bị,
+có lẽ nó sẽ không đau tẹo nào,
 
 364
 00:17:45,583 --> 00:17:47,291
-or maybe...
+hoặc có lẽ...
 
 365
 00:17:47,333 --> 00:17:49,291
-Ah, screw it!
+Ah, thây kệ đi!
 
 366
 00:17:55,166 --> 00:17:57,125
@@ -1602,7 +1497,7 @@ Whoo-hoo!
 
 367
 00:17:59,708 --> 00:18:01,125
-Whoa... oh, crap.
+Whoa... oh, chết mẹ.
 
 368
 00:18:01,166 --> 00:18:02,166
@@ -1618,327 +1513,304 @@ Ugh!
 
 371
 00:18:11,166 --> 00:18:13,083
-No, no, no, no, no...
+Không, không, không, không, không,...
 
 372
 00:19:13,291 --> 00:19:14,250
-Put some pants on,
+Mang quần vào,
 
 373
 00:19:14,291 --> 00:19:15,625
-and let's get
-in the sky, my boy.
+và chuẩn bị lên trời thôi, con trai ta.
 
 374
 00:19:21,583 --> 00:19:24,375
-I'll... put some coffee on.
+Bố sẽ... chuẩn bị ít cafe.
 
 375
 00:19:24,416 --> 00:19:26,625
-It's kinda like
-how you walk,
+Nó giống như việc con đi bộ,
 
 376
 00:19:26,666 --> 00:19:29,875
-and you don't think about
-balancing anymore,
+và con không nghĩ đến việc thăng bằng nữa,
 
 377
 00:19:29,916 --> 00:19:31,916
-but when you were a baby,
-you did.
+nhưng khi còn là một đứa trẻ,
+con đã phải làm quen nó.
 
 378
 00:19:31,958 --> 00:19:33,625
-You're a baby flier right now.
+Giờ con là một nguời bay tập tẹ.
 
 379
 00:19:33,666 --> 00:19:35,958
-You have to focus
-on staying upright,
+Con phải tập trung vào việc giữ bên phải,
 
 380
 00:19:36,000 --> 00:19:39,041
-focus on going
-the direction you want to go.
+tập trung vào hướng mà con muốn đến.
 
 381
 00:19:39,083 --> 00:19:40,125
-Understand?
+Hiểu chứ?
 
 382
 00:19:40,166 --> 00:19:40,958
-Yeah.
+Dạ.
 
 383
 00:19:41,000 --> 00:19:42,625
-I think I got it.
+Con nghĩ con làm được rồi.
 
 384
 00:19:42,666 --> 00:19:44,625
-It doesn't look like you do.
+Không giống là con đã làm được lắm.
 
 385
 00:19:44,666 --> 00:19:45,666
+Theo ta nào.
 Follow me.
 
 386
 00:19:48,666 --> 00:19:49,666
-No, no...
+Không, không...
 
 387
 00:19:55,333 --> 00:19:57,416
-You can wear yourself out
-flying.
+Con có thể để mặc bản thân khi bay.
 
 388
 00:19:57,458 --> 00:20:00,041
-Moving fast
-is like tensing a muscle.
+Di chuyển nhanh cũng giống như gồng cơ bắp vậy.
 
 389
 00:20:00,083 --> 00:20:01,125
-You're much better off
+Con sẽ làm tốt hơn
 
 390
 00:20:01,166 --> 00:20:03,750
-if you relax that muscle
-from time to time,
+nếu như thả lỏng các cơ bắp đó
+từ ngày này sang ngày khác,
 
 391
 00:20:03,791 --> 00:20:07,208
-use the momentum you're building
-to carry you forward.
+sử dụng những quán tính đó để con có thể bay hướng đến phía trước.
 
 392
 00:20:10,666 --> 00:20:12,375
-Okay, you don't want to fall,
+Được rồi, con không muốn bị ngã,
 
 393
 00:20:12,416 --> 00:20:14,875
-so you're gonna have trouble
-relaxing.
+nên con sẽ gặp vấn đề về thả lỏng. 
 
 394
 00:20:14,916 --> 00:20:17,958
-It's kind of like
-peeing your pants on purpose.
+Giống như đi tiểu trong quần
+có chủ đích vậy
 
 395
 00:20:18,000 --> 00:20:18,958
-What?
+Gì cơ?
 
 396
 00:20:19,000 --> 00:20:20,416
-Peeing your pants on purpose.
+Đi tiểu trong quần có chủ đích
 
 397
 00:20:20,458 --> 00:20:21,958
-You know, you spend
-your whole life
+Con biết đấy, con dành cả đời này
 
 398
 00:20:22,000 --> 00:20:23,750
-trying not to pee your pants,
+cố không tiểu trong quần.
 
 399
 00:20:23,791 --> 00:20:27,333
-so letting go,
-peeing your pants on purpose,
+nên thả lỏng ra, đi tiểu trong quần đi =))),
 
 400
 00:20:27,375 --> 00:20:28,625
-it's next to impossible.
+chuyện này khó gần như là điều không thể.
 
 401
 00:20:28,666 --> 00:20:30,083
-How how do you know this?
+Sao bố biết chuyện này?
 
 402
 00:20:30,125 --> 00:20:31,791
-Who would try that?
+Ai mà thử làm vậy chứ?
 
 403
 00:20:31,833 --> 00:20:34,333
-You are far better at flying
-than you should be.
+Con đang làm tốt hơn những gì con có thể làm hiện tại đấy.
 
 404
 00:20:34,375 --> 00:20:35,625
-Late-night practice?
+Tập luyện đêm khuya hả?
 
 405
 00:20:35,666 --> 00:20:36,958
-Is that why you're so tired?
+Lý do tại sao con mệt đó hả?
 
 406
 00:20:37,000 --> 00:20:38,309
-Don't try to change
-the subject.
+Đừng có đổi chủ đề
 
 407
 00:20:38,333 --> 00:20:39,833
-Land over there.
+Đáp ở đằng kia.
 
 408
 00:20:43,666 --> 00:20:46,125
-Slow down.
+Chậm lại.
 
 409
 00:20:46,166 --> 00:20:47,458
-Land. I said, land.
+Đáp. Bố nói, đáp.
 
 410
 00:20:47,500 --> 00:20:48,708
-Why aren't you slowing down?
+Sao con không chậm lại?
 
 411
 00:20:48,750 --> 00:20:49,625
-I can't!
+Con không thể
 
 412
 00:20:49,666 --> 00:20:52,125
-Stop. Just stop!
+Dừng lại. Dừng lại coai!
 
 413
 00:20:58,125 --> 00:20:59,041
-Okay.
+Được rồi.
 
 414
 00:20:59,083 --> 00:21:00,517
-I guess that still counts
-as a landing.
+Ta đoán như này vẫn tính là đáp đất.
 
 415
 00:21:00,541 --> 00:21:01,375
-Get up.
+Đứng dậy.
 
 416
 00:21:02,541 --> 00:21:04,500
-Come on, we're gonna try
-something else.
+Coi nào, chúng ta sẽ thử cách khác.
 
 417
 00:21:04,541 --> 00:21:06,221
-I'm actually getting
-used to this a little.
+Con thực sự đang gần quen với khả năng bay này.
 
 418
 00:21:06,250 --> 00:21:07,708
-That's not good.
+Như vậy vẫn chưa đủ.
 
 419
 00:21:08,541 --> 00:21:09,541
-Try to hit me.
+Thử đánh ta xem nào.
 
 420
 00:21:10,458 --> 00:21:12,458
-- Really?
-- Yeah.
+-Thật ư?
+- Phải.
 
 421
 00:21:14,041 --> 00:21:15,041
-Use your whole body.
+Sử dụng tất cả sức mạnh thể xác.
 
 422
 00:21:16,583 --> 00:21:18,458
-You can punch with your arm,
+Con có thể đấm ta với tay con,
 
 423
 00:21:18,500 --> 00:21:20,375
-but if you punch
-with your shoulder,
+nhưng nếu con đấm ta với vai,
 
 424
 00:21:20,416 --> 00:21:22,625
-your hips,
-and your legs as well,
+hông, và cả chân con,
 
 425
 00:21:22,666 --> 00:21:24,208
-it'll be much more powerful.
+nó sẽ mạnh hơn rất nhiều.
 
 426
 00:21:24,250 --> 00:21:25,850
-It'll take a while
-to get the hang of it.
+Việc này phải phải mất nhiều thời gian mới có thể quen được.
 
 427
 00:21:26,958 --> 00:21:27,791
-Okay.
+Được rồi.
 
 428
 00:21:27,833 --> 00:21:29,166
-Now, with us,
+Giờ, Với chúng ta,
 
 429
 00:21:29,208 --> 00:21:32,375
-we can freely move ourselves
-through physical space.
+chúng ta có thể di chuyển thoải mái trên các không.
 
 430
 00:21:32,416 --> 00:21:33,333
-That's how we fly.
+Đó là cách chúng ta bay.
 
 431
 00:21:33,375 --> 00:21:35,541
-So we don't have to pivot
-on our feet
+Vì vậy chúng ta không cần
 
 432
 00:21:35,583 --> 00:21:37,208
-and push off the ground.
+lực đẩy từ chân lên mặt đất.
 
 433
 00:21:37,250 --> 00:21:39,375
-We can literally
-push off anything.
+Chúng ta có thể sử dụng bất cứ thứ gì...
 
 434
 00:21:39,416 --> 00:21:41,541
-We can create our own leverage.
+để làm bàn đẩy cho mình.
 
 435
 00:21:46,333 --> 00:21:48,125
-Good...
+Tốt...
 
 436
 00:21:48,166 --> 00:21:49,958
-but try it
-a little more like this.
+nhưng thử như thế này nè.
 
 437
 00:21:50,000 --> 00:21:51,291
-Like what?
+Như thế nào ạ?
 
 438
 00:21:59,125 --> 00:22:01,041
-Dad...
+Bố...
 
 439
 00:22:02,083 --> 00:22:05,041
-You hurt me.
+Bố làm con đau.
 
 440
 00:22:06,291 --> 00:22:07,916
-I know, Son.
+Bố biết, con trai.
 
 441
 00:22:07,958 --> 00:22:08,958
-I didn't...
+Bố không...
 
 442
 00:22:09,000 --> 00:22:10,875
-I didn't mean
-to hit you so hard.
+Bố không có ý định đánh con mạnh như vậy.
 
 443
 00:22:10,916 --> 00:22:12,791
-I'm sorry.
+Bố xin lỗi.
 
 444
 00:22:14,000 --> 00:22:16,000
-Why did you do that?
+Sao bố lại làm vậy?
 
 445
 00:22:16,041 --> 00:22:16,875
@@ -1946,202 +1818,194 @@ Mark...
 
 446
 00:22:16,916 --> 00:22:18,500
-if you really wanna do
+nếu con thực sự muốn
 
 447
 00:22:18,541 --> 00:22:19,833
-what I do,
+làm những gì ta làm,
 
 448
 00:22:19,875 --> 00:22:22,375
-you have to be prepared
-for anything.
+con phải chuẩn bị sẵn sàng cho bất cứ thứ gì.
 
 449
 00:22:22,416 --> 00:22:24,916
-No one is gonna
-pull their punches.
+Không ai hạ nhẹ nắm đấm của họ lại cả
 
 450
 00:22:39,916 --> 00:22:41,833
-So...
+Vậy là...
 
 451
 00:22:41,875 --> 00:22:43,875
-how badly did that go?
+chuyện tệ như thế nào?
 
 452
 00:22:43,916 --> 00:22:45,833
-I pushed him pretty far.
+Anh đã hơi ép nó.
 
 453
 00:22:45,875 --> 00:22:47,708
-It's what he needs.
+Đó là điều mà nó cần.
 
 454
 00:22:47,750 --> 00:22:49,875
-Did you maybe
-push too far?
+Anh có nghĩ là đã ép nó quá không?
 
 455
 00:22:49,916 --> 00:22:51,125
-Are you questioning me?
+Em đang tra khảo anh đấy à?
 
 456
 00:22:51,166 --> 00:22:54,083
-What the hell
-has gotten into you?
+Có chuyện quái gì với anh vậy?
 
 457
 00:22:55,708 --> 00:22:56,750
-I don't know.
+Anh không biết nữa.
 
 458
 00:22:56,791 --> 00:22:57,583
-I...
+Anh...
 
 459
 00:22:57,625 --> 00:22:58,875
-I'm sorry.
+Anh xin lỗi.
 
 460
 00:22:58,916 --> 00:23:03,708
-Mark got his powers so late,
-I wasn't prepared for this.
+Mark nó có sức mạnh trễ quá,
+Anh đã không thực sự sẵn sàng cho điều này.
 
 461
 00:23:03,750 --> 00:23:06,333
-It changes things.
+Nó làm thay đổi nhiều chuyện.
 
 462
 00:23:06,375 --> 00:23:07,833
-I can't help but think,
+Anh đã nghĩ,
 
 463
 00:23:07,875 --> 00:23:09,750
-maybe our lives
-would be better
+cuộc sống của chúng ta có thể tốt hơn
 
 464
 00:23:09,791 --> 00:23:12,666
-if he hadn't
-gotten them at all.
+nếu thằng bé không có sức mạnh nào cả.
 
 465
 00:23:15,583 --> 00:23:16,833
-Jeez, man.
+Trời ạ.
 
 466
 00:23:16,875 --> 00:23:18,101
-You still sore
-from Todd's thrashing?
+Cậu vẫn con cay vụ Todd hả?
 
 467
 00:23:18,125 --> 00:23:19,083
-What's up?
+Sao thế?
 
 468
 00:23:19,125 --> 00:23:20,458
-Huh?
+Hả?
 
 469
 00:23:20,500 --> 00:23:21,666
-No, I'm fine.
+Không, tớ ổn.
 
 470
 00:23:21,708 --> 00:23:22,916
-Okay, man.
+Được rồ i.
 
 471
 00:23:22,958 --> 00:23:24,333
-You sure look fine.
+Nhìn cậu thì ổn rồi.
 
 472
 00:23:24,375 --> 00:23:26,500
-Hey, Mark Grayson...
+Này, Mark Grayson...
 
 473
 00:23:28,791 --> 00:23:30,958
-...and I don't see Amber
-anywhere nearby
+...ta không thấy Amber ở gần đây
 
 474
 00:23:31,000 --> 00:23:32,666
-to protect your sorry ass.
+để bảo vệ cho mày.
 
 475
 00:23:32,708 --> 00:23:33,791
-Todd, please.
+Todd, làm ơn.
 
 476
 00:23:33,833 --> 00:23:35,208
-Just don't...
+Đừng có...
 
 477
 00:23:35,250 --> 00:23:36,041
-Don't?
+Đừng?
 
 478
 00:23:37,208 --> 00:23:38,125
-Don't what?
+Đừng gì?
 
 479
 00:23:38,166 --> 00:23:39,708
-Don't kick your ass again?
+Đừng đánh mày nữa hả?
 
 480
 00:23:39,750 --> 00:23:41,625
-Or what?
-Are you threatening me?
+Hoặc sao?
+Mày đang đe dọa tao đấy hả?
 
 481
 00:23:41,666 --> 00:23:44,625
-Or do you need a replay
-of what happened last time, ass?
+Hay mày cần lặp lại
+như lần trước hả, thằng khùng?
 
 482
 00:23:44,666 --> 00:23:46,291
-Hit me.
+Đánh tao đi.
 
 483
 00:23:47,333 --> 00:23:48,375
-Go on.
+Tới đi.
 
 484
 00:23:48,416 --> 00:23:49,791
-Hit me as hard as you can.
+Đanh tao  bằng hết sức mạnh của mày đi.
 
 485
 00:23:55,000 --> 00:23:56,208
-Again.
+Lại.
 
 486
 00:23:59,208 --> 00:24:00,583
-Again.
+Lại.
 
 487
 00:24:00,625 --> 00:24:02,250
-Harder.
+Mạnh hơn.
 
 488
 00:24:12,083 --> 00:24:13,583
-Freak!
+Đồ khùng!
 
 489
 00:24:15,375 --> 00:24:17,791
-Dude, what is up with you?
+Cậu bị cái gì nhập vậy?
 
 490
 00:24:17,833 --> 00:24:19,333
-I need something to punch.
+Tớ cần cái gì đó để đấm.
 
 491
 00:24:19,375 --> 00:24:20,875
-He just walked away, Mark!
+Nó vừa mới bỏ chạy rồi, Mark!
 
 492
 00:24:20,916 --> 00:24:23,333
-You missed your chance.
+Cậu bỏ lỡ cơ hội của mình rồi.
 
 493
 00:24:30,375 --> 00:24:31,541
