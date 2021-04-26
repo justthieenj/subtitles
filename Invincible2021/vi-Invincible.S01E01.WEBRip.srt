@@ -2009,15 +2009,15 @@ Cậu bỏ lỡ cơ hội của mình rồi.
 
 493
 00:24:30,375 --> 00:24:31,541
-Gunfire...
+Nổ súng...
 
 494
 00:24:31,583 --> 00:24:33,458
-Where did the gunfire go?
+Nó đến từ đâu nhỉ?
 
 495
 00:24:34,916 --> 00:24:36,583
-There!
+Đây rồi!
 
 496
 00:24:40,541 --> 00:24:42,791
@@ -2025,44 +2025,39 @@ Whoa...
 
 497
 00:24:42,833 --> 00:24:43,875
-Dammit.
+Chết tiệt.
 
 498
 00:24:47,041 --> 00:24:48,333
-Let's go!
+Đi nào!
 
 499
 00:24:56,500 --> 00:24:58,458
-You're not supposed
-to run with us, you idiot!
+Mày không phải chạy theo chúng ta, tên ngốc này!
 
 500
 00:24:58,500 --> 00:24:59,750
-You're supposed
-to stay behind
+Mày lẽ ra nên ở phía sau
 
 501
 00:24:59,791 --> 00:25:01,458
-so we can get away!
+để chúng ta có thể chạy thoát!
 
 502
 00:25:01,500 --> 00:25:03,392
-You brought me along
-to protect you from the cops.
+Các người mang theo tôi để tôi có thể bảo vệ khỏi cảnh sát.
 
 503
 00:25:03,416 --> 00:25:04,375
-I can't do that
+Tôi không thể làm điều đó
 
 504
 00:25:04,416 --> 00:25:05,958
-if I hang back
-and let them shoot me.
+nếu tôi ở lại phía sau và để mấy tên đó bắn tôi.
 
 505
 00:25:06,000 --> 00:25:08,625
-Shut up
-and get us over the fence!
+Im đi và giúp tụi này qua hàng rào kia nào!
 
 506
 00:25:11,583 --> 00:25:12,916
@@ -2070,15 +2065,15 @@ Huh?
 
 507
 00:25:17,541 --> 00:25:19,250
-Meant to do that.
+Cố ý đó.
 
 508
 00:25:21,250 --> 00:25:22,625
-Who the hell are you?
+Người là tên quái nào?
 
 509
 00:25:22,666 --> 00:25:24,166
-I'm...
+Ta là...
 
 510
 00:25:24,208 --> 00:25:25,041
@@ -2086,55 +2081,51 @@ Uh...
 
 511
 00:25:25,083 --> 00:25:26,250
-I'm...
+Ta là...
 
 512
 00:25:26,291 --> 00:25:27,791
-I guess I'm working
-on that.
+Ta nghĩ là vẫn đang suy nghĩ về cái tên.
 
 513
 00:25:27,833 --> 00:25:28,916
-Any suggestions?
+Có gợi ý nào không?
 
 514
 00:25:28,958 --> 00:25:31,416
-Captain Guy with a hole
-punched through him?
+Captain Guy với một cái lỗ bị ta đấm thủng mặt?
 
 515
 00:25:31,458 --> 00:25:33,458
-Doesn't really
-roll off the tongue.
+Không được vần cho lắm.
 
 516
 00:25:35,458 --> 00:25:36,500
-Anything else?
+Còn gì nữa không?
 
 517
 00:26:03,166 --> 00:26:06,625
-Huh, what about Ass Kicker?
+Kẻ Đá Đít thì sao hả?
 
 518
 00:26:06,666 --> 00:26:07,750
-No...
+Không...
 
 519
 00:26:07,791 --> 00:26:09,083
-that sounds
-willfully childish.
+cái tên đó nghe trẩu tre vl.
 
 520
 00:26:09,125 --> 00:26:09,958
-What are you thinking?
+Con nghĩ gì thế hả?
 
 521
 00:26:10,000 --> 00:26:12,875
-You look ridiculous.
+Trong con thật buồn cười.
 
 522
 00:26:14,166 --> 00:26:16,125
-Let's get outta here.
+Đi khỏi đây thôi nào.
 
 523
 00:26:19,000 --> 00:26:20,375
@@ -2146,174 +2137,165 @@ Oof!
 
 525
 00:26:23,291 --> 00:26:24,500
-Honestly,
+Thực sự mà nói,
 
 526
 00:26:24,541 --> 00:26:26,875
-I think you might have
-skipped a few steps, Mark.
+ta nghĩ con đã bỏ qua khá nhiều bước, Mark à.
 
 527
 00:26:27,958 --> 00:26:29,875
-Seemed to work out just fine.
+Có vẻ mọi thứ vẫn diễn ra tốt đẹp.
 
 528
 00:26:29,916 --> 00:26:31,375
-It may not
-look like much,
+Trông không có gì đáng kể,
 
 529
 00:26:31,416 --> 00:26:33,583
-but you did far more
-damage down there
+nhưng con đã gây ra thiệt hại rất nhiều lần
 
 530
 00:26:33,625 --> 00:26:34,958
-than you needed to.
+so với những thứ con cần phải giải quyết.
 
 531
 00:26:35,000 --> 00:26:36,375
-I don't think
-you're ready.
+Bố không nghĩ là con đã sẵn sàng.
 
 532
 00:26:37,291 --> 00:26:38,208
-Hit me.
+Đánh con đi.
 
 533
 00:26:38,250 --> 00:26:39,291
-What?
+Gì cơ?
 
 534
 00:26:39,333 --> 00:26:41,458
-Hit me now.
-Do it!
+Đánh con bây giờ.
+Làm đi!
 
 535
 00:26:41,500 --> 00:26:42,875
-I wasn't ready before.
+Trước đó con đã chưa sẵn sàng.
 
 536
 00:26:42,916 --> 00:26:43,791
-Now I am.
+Giờ thì rồi.
 
 537
 00:26:43,833 --> 00:26:45,041
-I can take it.
+Con có thể chịu được.
 
 538
 00:26:45,083 --> 00:26:46,625
-Come on!
+Coi nào!
 
 539
 00:26:46,666 --> 00:26:48,791
-I'm not gonna hit you.
+Bố sẽ không đánh con đâu.
 
 540
 00:26:48,833 --> 00:26:50,017
-You'd never
-hit me before, okay?
+Bố chưa từng đánh con, được chưa?
 
 541
 00:26:50,041 --> 00:26:51,125
-It scared me.
+Điều đó làm con sợ.
 
 542
 00:26:51,166 --> 00:26:52,767
-It wasn't too much,
-I could take the pain.
+Lần đó không nặng lắm,
+con có thể chịu được.
 
 543
 00:26:52,791 --> 00:26:53,708
-I'm strong.
+Con rất khỏe.
 
 544
 00:26:53,750 --> 00:26:55,041
-I know you are.
+Bố biết.
 
 545
 00:26:55,083 --> 00:26:56,083
-No, you don't!
+Không, bố không thể!
 
 546
 00:26:56,125 --> 00:26:57,791
-I know you think
-I can't do this!
+Con biết bố nghĩ con không làm được việc này!
 
 547
 00:26:57,833 --> 00:26:59,416
-Hit me, and let me
-prove you wrong!
+Đánh con đi và con sẽ chứng minh rằng bố đã sai.
 
 548
 00:26:59,458 --> 00:27:00,750
-Please, Dad!
+Bố làm ơn đi!
 
 549
 00:27:00,791 --> 00:27:02,125
-Please just hit me.
+Làm ơn đánh con đi.
 
 550
 00:27:02,166 --> 00:27:03,708
-Oh, Son...
+Ôi, Con trai...
 
 551
 00:27:03,750 --> 00:27:06,333
-I'm strong enough,
-and I can do this!
+Con đủ khỏe, và con có thể làm được!
 
 552
 00:27:06,375 --> 00:27:08,791
-It's all I ever wanted
-for as long as I can remember.
+Đây là điều mà con đã ước ao bấy lâu.
 
 553
 00:27:08,833 --> 00:27:12,708
-I wanna do what you do.
+Con muốn làm được những thứ như bố.
 
 554
 00:27:12,750 --> 00:27:15,375
-I wanna be just like you.
+Con chỉ muốn được như bố.
 
 555
 00:27:18,541 --> 00:27:20,875
-You will be, Son.
+Con sẽ làm được thôi, con trai.
 
 556
 00:27:20,916 --> 00:27:22,416
-You will.
+Con sẽ làm được.
 
 557
 00:27:25,333 --> 00:27:28,000
-Let me make this up to you.
+Để ta bù đắp chuyện này cho con.
 
 558
 00:27:32,083 --> 00:27:33,583
-Follow me.
+Theo ta.
 
 559
 00:27:40,250 --> 00:27:41,267
-You're taking me shopping?
+Bố dẫn con đi mua sắm hả?
 
 560
 00:27:41,291 --> 00:27:44,000
-I am.
+Đúng vậy.
 
 561
 00:27:53,041 --> 00:27:54,250
-Were you seen?
+Anh có bị ai thấy không?
 
 562
 00:27:54,291 --> 00:27:55,958
-Who are you talking to?
+Ông đùa với tôi đấy hả?
 
 563
 00:27:56,000 --> 00:27:57,541
-Sorry, sorry.
+Xin lỗi, xin lỗi.
 
 564
 00:27:57,583 --> 00:27:58,791
-Just need to ask.
+Chỉ là phòng hờ thôi.
 
 565
 00:27:58,833 --> 00:27:59,750
@@ -2321,29 +2303,27 @@ Whoa...
 
 566
 00:27:59,791 --> 00:28:02,083
-Prom dresses by day,
+Ban ngày may áo quần đồng phục,
 
 567
 00:28:02,125 --> 00:28:05,416
-indestructible super suits
-by night.
+đến đêm lại làm những bộ super suits bền bỉ.
 
 568
 00:28:05,458 --> 00:28:07,166
-I'm Art Rosenbaum, kid.
+Ta là Art Rosenbaum.
 
 569
 00:28:07,208 --> 00:28:08,791
-Pleasure to finally meet you.
+Cuối cùng cũng được gặp con.
 
 570
 00:28:08,833 --> 00:28:10,666
-I've heard so much
-about you.
+Ta đã nghe rất nhiều về con.
 
 571
 00:28:10,708 --> 00:28:12,708
-You, too.
+Ông cũng vậy.
 
 572
 00:28:12,750 --> 00:28:13,791
@@ -2351,105 +2331,95 @@ Heh.
 
 573
 00:28:13,833 --> 00:28:15,583
-Your dad's never
-mentioned me, has he?
+Bố con chưa bao giờ nhắc đến ta, đúng không?
 
 574
 00:28:15,625 --> 00:28:16,916
-Well, I...
+Chà, Con...
 
 575
 00:28:16,958 --> 00:28:17,958
-He's a teenager, Art.
+Thằng bé đang còn tuổi teen, Art.
 
 576
 00:28:18,000 --> 00:28:19,125
-He barely remembers anything
+Thằng bé còn không nhớ nổi
 
 577
 00:28:19,166 --> 00:28:20,916
-he doesn't see in the mirror
-every morning.
+những thứ mà khuất tầm gương của nó mỗi sáng.
 
 578
 00:28:21,833 --> 00:28:23,375
-Wait, super suits?
+Khoan, super suits ư?
 
 579
 00:28:23,416 --> 00:28:24,916
-Am I getting
-a costume?
+Con sẽ có bộ đồ cho mình hả?
 
 580
 00:28:24,958 --> 00:28:26,500
-Do you make
-Dad's costumes?
+Ông có làm bộ đồ này cho cha cháu không?
 
 581
 00:28:26,541 --> 00:28:28,000
-He's a quick one,
-this kid.
+Thằng bé này nhanh nhẹn đó
 
 582
 00:28:28,041 --> 00:28:29,226
-I can't have you
-running around in your pajamas
+Ta không thể để con ra đường với bộ pajamas thế được
 
 583
 00:28:29,250 --> 00:28:30,083
-all the time.
+.
 
 584
 00:28:30,125 --> 00:28:31,458
-Oh, man!
+Ui trời!
 
 585
 00:28:31,500 --> 00:28:32,625
-Awesome!
+Quá đã!
 
 586
 00:28:32,666 --> 00:28:34,101
-Wait, do you already
-have one made for me?
+Chờ đã, bố đã làm sẵn bộ đồ cho con rồi ư?
 
 587
 00:28:34,125 --> 00:28:35,125
-Is it a surprise?
+Đây là một điều nhạc nhiên đúng không.
 
 588
 00:28:35,166 --> 00:28:37,083
-Usually, we start
-with a conversation,
+Thường thì chúng ta sẽ bắt đầu bằng một cuộc trò chuyện
 
 589
 00:28:37,125 --> 00:28:39,083
-and I make something custom,
+và ta sẽ lo phần cải thiện,
 
 590
 00:28:39,125 --> 00:28:41,333
-but I do have one
-that might work.
+nhưng ta có một bộ có thể sử dụng được.
 
 591
 00:28:44,208 --> 00:28:46,250
-What do you think?
+Con thấy sao?
 
 592
 00:28:46,291 --> 00:28:47,333
-Well...
+Chà...
 
 593
 00:28:47,375 --> 00:28:49,041
-I don't know about
-the orange and yellow.
+Con không thích màu cam và vàng đâu.
 
 594
 00:28:49,083 --> 00:28:49,958
-It's pretty loud.
+Nó có vẻ ồn nữa.
 
 595
 00:28:50,000 --> 00:28:50,833
-Dad?
+Bố?
 
 596
 00:28:50,875 --> 00:28:53,000
