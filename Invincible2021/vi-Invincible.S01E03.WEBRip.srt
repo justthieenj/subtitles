@@ -284,90 +284,86 @@ Nếu chuyện này có thể xảy ra với Guardians of the Globe,
 
 71
 00:04:10,333 --> 00:04:12,708
-This is a private ceremony,
-Darkblood.
+Đây là đám tang riêng, Darkblood.
 
 72
 00:04:14,208 --> 00:04:15,708
-Never get invited.
+Chưa bao giờ được mời.
 
 73
 00:04:15,750 --> 00:04:17,500
-Show up anyway.
+Vẫn có mặt.
 
 74
 00:04:17,541 --> 00:04:18,791
-What do you want?
+Anh muốn gì?
 
 75
 00:04:18,833 --> 00:04:20,250
-Same as you.
+Giống như anh.
 
 76
 00:04:20,291 --> 00:04:22,333
-Discover clues.
-Catch killer.
+Tìm các manh mối.
+Tóm tên sát nhân.
 
 77
 00:04:22,375 --> 00:04:24,875
-Bring to justice.
+Đem ra công lý.
 
 78
 00:04:24,916 --> 00:04:27,291
-And buy yourself
-a few more years out of hell.
+Và cho bản thân mình thêm vài năm
+không phải quay lại địa ngục.
 
 79
 00:04:27,333 --> 00:04:29,750
-Don't pretend you do this
-because you care.
+Đừng giả vờ anh làm điều này vì anh thực sự quan tâm.
 
 80
 00:04:29,791 --> 00:04:31,916
-You just don't want to go home.
+Anh chỉ không muốn về nhà mà thôi.
 
 81
 00:04:31,958 --> 00:04:35,000
-Maybe one day, you'll know why.
+Có lẽ một ngày nào đó, anh sẽ biết lý do tại sao.
 
 82
 00:04:35,041 --> 00:04:39,083
-I already told Cecil
-everything I know.
+Tôi đã kể hết cho Cecil tất cả những gì tôi biết.
 
 83
 00:04:39,125 --> 00:04:41,000
-Saw nothing.
-Heard nothing.
+Không thấy gì.
+Không nghe gì.
 
 84
 00:04:41,041 --> 00:04:42,791
-Attacked in darkness.
+Bị tập kích ở trong bóng tối.
 
 85
 00:04:42,833 --> 00:04:44,458
-Left for dead.
+Để mặc chết.
 
 86
 00:04:44,500 --> 00:04:46,625
-Are you insinuating something?
+Anh đang nói bóng gió gì hả?
 
 87
 00:04:48,000 --> 00:04:49,916
-Didn't mean to offend.
+Không có ý xúc phạm.
 
 88
 00:04:49,958 --> 00:04:54,291
-Nuance of human conversation
-difficult for me.
+Cuộc hội thoại có ẩn ý như con người tôi không làm được.
 
 89
 00:04:54,333 --> 00:04:56,416
-If you remember something...
+Nếu anh nhớ ra chuyện gì...
 
 90
 00:04:57,541 --> 00:04:58,625
-I'll call you.
+Tôi sẽ gọi cho anh.
 
 91
 00:04:58,666 --> 00:04:59,625
@@ -375,7 +371,7 @@ Josef...
 
 92
 00:04:59,666 --> 00:05:02,875
-Let's get you in a car, Olga.
+Để tôi đưa cô ra xe nàom Olga.
 
 93
 00:05:02,916 --> 00:05:04,166
@@ -383,105 +379,97 @@ Robot!
 
 94
 00:05:04,208 --> 00:05:05,916
-You know, for a bunch
-of computer code,
+Đối với cả mớ mã lập trình như anh,
 
 95
 00:05:05,958 --> 00:05:08,666
-you run a mean superhero team.
+có thể vận hành cả đội siêu anh hùng cục xúc nữa.
 
 96
 00:05:08,708 --> 00:05:10,791
-You really saved our bacon
-with those Flaxans.
+Anh thực sự đã cứu vớt chúng ta với lũ Flaxans kia.
 
 97
 00:05:10,833 --> 00:05:11,791
-Thank you, Cecil.
+Cám ơn, Cecil.
 
 98
 00:05:11,833 --> 00:05:13,541
-That means a lot
-coming from you.
+Điều nói ra từ miệng ông thật có ý nghĩa.
 
 99
 00:05:13,583 --> 00:05:15,416
-I know you've always
-been independent,
+Tôi biết trước giờ
+cậu luôn làm việc độc lập,
 
 100
 00:05:15,458 --> 00:05:17,666
-but I want you
-to come work for the GDA,
+nhưng tôi muốn cậu làm cho GDA,
 
 101
 00:05:17,708 --> 00:05:19,750
-and build me
-a new Guardians of the Globe.
+và xây dựng cho tôi một Guardians of the Globe mới.
 
 102
 00:05:19,791 --> 00:05:21,250
-Now, you'll pick the team,
+Giờ, giao cho cậu tuyển chọn thành viên,
 
 103
 00:05:21,291 --> 00:05:22,541
-you'll be in charge.
+cậu sẽ là đội trưởng.
 
 104
 00:05:22,583 --> 00:05:27,208
-The only person
-that you will answer to is me.
+Người duy nhất mà cậu phải tuân lệnh là tôi
 
 105
 00:05:27,250 --> 00:05:28,416
-Forgive me,
+Xin thứ lỗi,
 
 106
 00:05:28,458 --> 00:05:30,059
-but would Omni-Man
-not be the natural choice?
+nhưng Omni-Man chẳng phải là
+một lựa chọn tốt hơn hay sao?
 
 107
 00:05:30,083 --> 00:05:31,083
-Sure.
+Đúng.
 
 108
 00:05:31,125 --> 00:05:32,708
-Except it's never gonna happen.
+Ngoại trừ việc đó sẽ không bao giờ xảy ra.
 
 109
 00:05:32,750 --> 00:05:33,708
-I've tried for a decade
+Tôi đã cố cả thập kỉ
 
 110
 00:05:33,750 --> 00:05:35,166
-to make him
-an official Guardian.
+để khiến anh ta là một thành viên chính thức của Guardians.
 
 111
 00:05:35,208 --> 00:05:36,333
-He helps out, yeah,
+Anh ta có giúp, phải,
 
 112
 00:05:36,375 --> 00:05:38,916
-but he's never taken orders,
+nhưng anh ta không bao giờ nhận lênh,
 
 113
 00:05:38,958 --> 00:05:40,041
-not from me, anyway.
+ít nhất là không phải từ tôi.
 
 114
 00:05:40,083 --> 00:05:41,875
-Then I don't know
-what to say...
+Vậy thì tôi không có lời nào để nói...
 
 115
 00:05:41,916 --> 00:05:43,083
-Easy.
+Đơn giản thôi.
 
 116
 00:05:43,125 --> 00:05:45,083
-Say you'll do it.
+Nói là cậu sẽ làm.
 
 117
 00:05:52,791 --> 00:05:54,166
