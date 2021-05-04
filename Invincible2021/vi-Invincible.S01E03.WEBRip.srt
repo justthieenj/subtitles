@@ -1032,92 +1032,86 @@ Cô hiểu ý tôi mà, đúng không?
 
 255
 00:11:13,208 --> 00:11:14,625
-Is that Demi-God?
+Đó có phải là Demi-God không?
 
 256
 00:11:14,666 --> 00:11:16,125
-Oh, Shrapnel!
+Ô cả Shrapnel nữa!
 
 257
 00:11:16,166 --> 00:11:18,583
-And Burly,
+Và Burly,
 Pangea, Bug-Eye...
 
 258
 00:11:18,625 --> 00:11:21,625
-It's the crowning achievement
-of any crusader's career
+Đó là một thành tích mong ước
+với sự nghiệp của những người này
 
 259
 00:11:21,666 --> 00:11:24,916
-to be selected for
-the New Guardians of the Globe,
+được chọn vào nhóm Guardians of the Globe mới,
 
 260
 00:11:24,958 --> 00:11:28,125
-which makes me wonder again
-why you won't try out.
+nó lại làm tôi thắc mắc sao cậu không đăng ký tham gia.
 
 261
 00:11:28,166 --> 00:11:29,041
-I know.
+Tôi biết.
 
 262
 00:11:29,083 --> 00:11:30,458
-I talked it over
-with my dad.
+Tôi đã nói với bố về chuyện này.
 
 263
 00:11:30,500 --> 00:11:32,083
-He wants to train me himself.
+Nhưng ông ấy muốn tự mình huấn luyện tôi.
 
 264
 00:11:32,125 --> 00:11:34,458
-Plus, my mom would kill me
-if I miss any more school.
+Hơn nữa, mẹ tôi sẽ giết tôi
+nếu tôi còn dám cúp 1 buổi học nào nữa.
 
 265
 00:11:34,500 --> 00:11:36,125
-Then why are you here?
+Vậy thì tại sao cậu lại ở đây?
 
 266
 00:11:36,166 --> 00:11:37,083
-Are you kidding?
+Cậu đùa tôi sao?
 
 267
 00:11:37,125 --> 00:11:38,791
-Like I'd miss this?
+Sao tôi có thể bỏ lỡ điều này được chứ?
 
 268
 00:11:38,833 --> 00:11:39,791
-Oh, my god,
-there's Fight Force.
+Ôi trời, có cả Fight Force nữa kìa.
 
 269
 00:11:39,833 --> 00:11:40,666
-Why'd they even come here?
+Sao họ đến đây cơ chứ?
 
 270
 00:11:40,708 --> 00:11:42,666
-Despite your name,
+Mặc cho tên của cậu,
 
 271
 00:11:42,708 --> 00:11:45,166
-I believe you underestimate
-yourself, Invincible.
+Tôi tin rằng cậu đang đánh giá thấp bản thân mình, Invincible.
 
 272
 00:11:45,208 --> 00:11:47,250
-I'll still be around, helping.
+Tôi sẽ vẫn ở cạnh giúp đỡ khi cần mà.
 
 273
 00:11:47,291 --> 00:11:48,916
-When does this all get started?
+Khi nào cuộc tuyển chọn bắt đầu thế?
 
 274
 00:11:50,958 --> 00:11:52,791
-Thank you all
-for coming here today.
+Cám ơn mọi người đã có mặt ngày hôm nay.
 
 275
 00:11:52,833 --> 00:11:53,791
@@ -1129,8 +1123,7 @@ The Guardians of the Globe
 
 277
 00:11:54,833 --> 00:11:56,791
-were more
-than a group of heroes.
+còn hơn cả một nhóm siêu anh hùng.
 
 278
 00:11:56,833 --> 00:11:58,083
@@ -1138,17 +1131,17 @@ than a group of heroes.
 
 279
 00:11:58,125 --> 00:12:00,041
-- They were icons.
+- Họ là những tượng đài.
 - ♪ Are you ready? ♪
 
 280
 00:12:00,083 --> 00:12:01,958
-Those of you
-who pass our trials
+Những ai trong số các bạn
+vượt qua vòng thử thách của chúng tôi.
 
 281
 00:12:02,000 --> 00:12:03,017
-will be among the elite...
+sẽ trở thành một trong những người ưu tú...
 
 282
 00:12:03,041 --> 00:12:04,000
@@ -1160,7 +1153,7 @@ will be among the elite...
 
 284
 00:12:06,791 --> 00:12:08,708
-...The best of the best.
+...Đỉnh của đỉnh.
 
 285
 00:12:13,250 --> 00:12:14,208
@@ -1182,51 +1175,48 @@ like rocket fuel? ♪
 
 289
 00:12:22,250 --> 00:12:23,416
-Needless to say,
+Dù gì cũng phải nhắc,
 
 290
 00:12:23,458 --> 00:12:25,625
-not all of you
-will be up to the challenge.
+không phải ai trong số các bạn
+cũng đủ đối mặt với thử thách.
 
 291
 00:12:25,666 --> 00:12:26,750
-Ouch.
+Ui.
 
 292
 00:12:26,791 --> 00:12:28,166
-What's up with her?
+Cậu ấy bị gì vậy?
 
 293
 00:12:28,208 --> 00:12:29,500
-No idea.
+Tui chịu nha.
 
 294
 00:12:29,541 --> 00:12:32,250
-Those of you who are
-up to the challenge
+Những ai trong số các bạn có thể đối mặt với thách thức
 
 295
 00:12:32,291 --> 00:12:33,500
-will succeed
+sẽ thành công
 
 296
 00:12:33,541 --> 00:12:36,041
-not just by the uniqueness
-of your abilities,
+không chỉ về khả năng độc đáo của mình,
 
 297
 00:12:36,083 --> 00:12:39,458
-but by the uniqueness
-of your tactics...
+mà còn cả chiến thuật khôn ngoan của mình...
 
 298
 00:12:41,375 --> 00:12:42,458
-your adaptability...
+sự thích nghi...
 
 299
 00:12:47,541 --> 00:12:49,541
-...the agility of your minds.
+...sự nhanh nhẹn của trí óc.
 
 300
 00:12:50,833 --> 00:12:52,017
@@ -1310,7 +1300,7 @@ like rocket fuel? ♪
 
 317
 00:13:19,416 --> 00:13:20,625
-Oh, yeah!
+Tuyệt!
 
 318
 00:13:20,666 --> 00:13:22,791
@@ -1327,23 +1317,20 @@ Rah!
 
 321
 00:13:27,541 --> 00:13:30,541
-...And perhaps
-most importantly,
+... Và hơn hết,
 
 322
 00:13:30,583 --> 00:13:33,000
-the strength of your character
-and spirit.
+là sức mạnh của tính cách và tinh thần của của các bạn.
 
 323
 00:13:33,041 --> 00:13:36,791
-That is what
-truly makes a hero.
+Đó chính là thứ khiến bạn là một anh hùng.
 
 324
 00:13:38,250 --> 00:13:42,708
-It is my pleasure to introduce
-the new Guardians of the Globe.
+Cho phép tôi hân hạnh được giới thiệu
+những thành viên của Guardians of the Globe mới.
 
 325
 00:13:42,750 --> 00:13:44,708
@@ -1363,25 +1350,23 @@ Monster Girl.
 
 329
 00:13:53,000 --> 00:13:55,458
-Aw, look at her,
-she's adorable!
+Nhìn cô bé kìa, thật đáng yêu!
 
 330
 00:13:55,500 --> 00:13:57,125
-But isn't there, like,
-an age requirement
+Tôi tưởng phải có giới hạn tuổi
 
 331
 00:13:57,166 --> 00:13:57,958
-for this ride?
+cho điều này chứ?
 
 332
 00:13:58,000 --> 00:13:58,875
-Am I wrong?
+Tôi có nhầm lẫn gì không?
 
 333
 00:13:58,916 --> 00:14:00,291
-'Cause this seems weird, right?
+Vì điều này thật kì quặc đúng không?
 
 334
 00:14:02,833 --> 00:14:03,916
@@ -1389,42 +1374,39 @@ Rex...
 
 335
 00:14:03,958 --> 00:14:05,416
-I dunno, you're here.
+Tôi không biết nữa, cậu cũng ở đây nè.
 
 336
 00:14:05,458 --> 00:14:07,625
-Isn't there a dick size
-requirement?
+Chẳng phải cũng có quy định cỡ cu mà đúng không?
 
 337
 00:14:07,666 --> 00:14:08,458
-I'm sorry?
+Xin lỗi bé?
 
 338
 00:14:08,500 --> 00:14:10,458
-For what, your tiny dick?
+Vì cái gì, con cu tí hon của anh ư?
 
 339
 00:14:10,500 --> 00:14:12,500
-I mean, the way you've been
-strutting around here,
+Ý tôi là, nhìn cách anh đứng khệnh khạng như thế,
 
 340
 00:14:12,541 --> 00:14:15,833
-you must be compensating
-for something.
+anh đang cố che giấu gì đó.
 
 341
 00:14:18,708 --> 00:14:20,583
-Somebody ought to teach you
+Ai đó phải dạy lại bé
 
 342
 00:14:20,625 --> 00:14:23,125
-some mother-fucking...
+cách...
 
 343
 00:14:23,166 --> 00:14:24,083
-What the fuck?
+Cái quái gì thế?
 
 344
 00:14:26,583 --> 00:14:28,000
@@ -1432,15 +1414,15 @@ Oof!
 
 345
 00:14:30,541 --> 00:14:33,000
-Guess you missed my try-out.
+Tôi đoán là anh đã bỏ lỡ màn thử thách của tôi.
 
 346
 00:14:38,125 --> 00:14:40,375
-Still think I'm adorable?
+Còn nghĩ là tôi đáng yêu nữa không?
 
 347
 00:14:45,458 --> 00:14:47,125
-You little bitch.
+Đồ nhãi con.
 
 348
 00:14:50,250 --> 00:14:52,000
@@ -1448,17 +1430,16 @@ Aw...
 
 349
 00:14:52,041 --> 00:14:54,875
-Now, that's adorable.
+Giờ thì nó thật đáng yêu.
 
 350
 00:14:54,916 --> 00:14:59,791
-I'm gonna blast that smile
-off your stupid, green face.
+Tao sẽ cho nổ tung cái nụ cười
+ngốc ngếch của mày, tên mặt xanh.
 
 351
 00:14:59,833 --> 00:15:02,000
-Please, stop,
-this is hardly constructive.
+Xin dừng lại, nơi này chỉ dựng tạm bợ.
 
 352
 00:15:02,041 --> 00:15:03,041
@@ -1466,91 +1447,89 @@ Ha!
 
 353
 00:15:06,125 --> 00:15:08,291
-Uh... is this okay?
+Uh... như thế này có ổn không?
 
 354
 00:15:08,333 --> 00:15:10,125
-He asked for it.
+Hắn tự làm tự chịu.
 
 355
 00:15:17,625 --> 00:15:18,916
-Okay, enough.
+Đủ rồi.
 
 356
 00:15:18,958 --> 00:15:20,416
-Get lost, boy scout.
+Biến đi, tên nhóc học sinh.
 
 357
 00:15:21,791 --> 00:15:23,250
-I said, enough!
+Tôi nói, đủ rồi!
 
 358
 00:15:27,083 --> 00:15:29,333
-Invincible hit
-that little girl!
+Invincible đánh cô gái nhỏ đó luôn kìa!
 
 359
 00:15:30,500 --> 00:15:32,166
-Oh... shit.
+Oh... chết cha.
 
 360
 00:15:32,208 --> 00:15:35,375
-Uh, look, I'm so sorry.
+Tôi thực sự xin lỗi.
 
 361
 00:15:35,416 --> 00:15:37,041
-Nah, my bad.
+Thôi, là lỗi của tôi.
 
 362
 00:15:37,083 --> 00:15:39,916
-The kid thing
-sets me off every time,
+Mấy chuyện bị nói là trẻ con
+lần nào cũng làm tôi bực bội,
 
 363
 00:15:39,958 --> 00:15:41,750
-and then it's like, "Rah!"
+vaf rồi, "Rah!"
 
 364
 00:15:41,791 --> 00:15:43,000
-Beast mode.
+Hóa thú.
 
 365
 00:15:43,041 --> 00:15:45,083
-Sorry about the dick joke.
+Xin lỗi vì dick joke mới nãy.
 
 366
 00:15:45,125 --> 00:15:47,625
-I'm sure your junk
-is awesome.
+Tôi chắc là thứ đó ngon nghẻ lắm.
 
 367
 00:15:47,666 --> 00:15:49,125
-It's fine.
+Không sao.
 
 368
 00:15:49,166 --> 00:15:50,458
-I'm good.
-You're good.
+Tôi tốt.
+Cô cũng thế.
 
 369
 00:15:50,500 --> 00:15:53,541
-You can... punch hard.
+Cô có thể... đánh mạnh.
 
 370
 00:15:54,416 --> 00:15:56,791
-Didn't need your help, asshole.
+Tao cóc cần nhờ nhé, thằng kia.
 
 371
 00:15:56,833 --> 00:15:58,625
-Aw, Christ...
+Trời ạ...
 
 372
 00:16:01,625 --> 00:16:03,333
-As I was saying,
+Như tôi vừa nói,
 
 373
 00:16:03,375 --> 00:16:04,767
-welcome to
+Chào mừng gia nhập
 the Guardians of the Globe,
 
 374
@@ -1559,19 +1538,19 @@ Monster Girl...
 
 375
 00:16:05,791 --> 00:16:07,750
-I'm gonna shit blood.
+Mình sẽ đi ị ra máu mất.
 
 376
 00:16:07,791 --> 00:16:09,500
-...along with Rex Splode,
+...cùng với Rex Splode,
 
 377
 00:16:09,541 --> 00:16:11,583
-once he's recovered...
+một khi cậu ấy khỏe lại...
 
 378
 00:16:11,625 --> 00:16:12,750
-and our final member,
+và thành viên cuối cùng của chúng ta,
 
 379
 00:16:12,791 --> 00:16:15,125
@@ -1579,12 +1558,11 @@ Atom Eve.
 
 380
 00:16:15,166 --> 00:16:18,166
-Thank you all for coming today.
+Cám ơn tất cả vì đã có mặt hôm nay.
 
 381
 00:16:18,208 --> 00:16:20,791
-We'll be making
-a public announcement shortly.
+Chúng tôi sẽ công bố trên bản tin sớm thôi.
 
 382
 00:16:21,625 --> 00:16:22,833
@@ -1592,67 +1570,64 @@ Robot.
 
 383
 00:16:22,875 --> 00:16:24,458
-No need to thank me.
+Không cần phải cảm ơn tôi.
 
 384
 00:16:24,500 --> 00:16:27,500
-I obviously needed
-to remain impartial,
+Tôi đương nhiên vẫn giữ sự công bằng của mình,
 
 385
 00:16:27,541 --> 00:16:28,750
-but I'm still delighted
+nhưng tôi vẫn rất vui
 
 386
 00:16:28,791 --> 00:16:31,083
-so many members of the Teen Team
-made the cut.
+vì rất nhiều thành viên của Teen Team vượt qua được.
 
 387
 00:16:31,125 --> 00:16:34,250
-I can't be on the same team
-as Rex and Kate.
+Mình không thể ở chung đội với Rex và Kate.
 
 388
 00:16:34,291 --> 00:16:36,541
-What? Why?
+Cái gì cơ? Tại sao?
 
 389
 00:16:36,583 --> 00:16:37,541
-Hey, wait!
+Này, đợi đã!
 
 390
 00:16:37,583 --> 00:16:38,875
-Rex, what did you do?
+Rex, anh đã làm gì?
 
 391
 00:16:39,875 --> 00:16:42,125
-Thanks for the help, Robot.
+Cám ơn nhiều nhé, Robot.
 
 392
 00:16:42,166 --> 00:16:45,625
-Can't wait to be on your team.
+Rất mong được làm chúng cùng đội của anh.
 
 393
 00:16:48,583 --> 00:16:49,916
-Hey...
+Này...
 
 394
 00:16:49,958 --> 00:16:51,375
-what's going on?
+có chuyện gì thế?
 
 395
 00:16:51,416 --> 00:16:52,750
-Rex cheated on me...
+Rex cắm sừng mình...
 
 396
 00:16:52,791 --> 00:16:53,750
-What?
+Gì cơ?
 
 397
 00:16:53,791 --> 00:16:56,125
-...with Dupli-Kate,
-all three of her.
+...với Dupli-Kate,
+cùng cả 3 cô ta.
 
 398
 00:16:56,166 --> 00:16:57,708
@@ -1664,49 +1639,47 @@ Whoa...
 
 400
 00:16:59,958 --> 00:17:02,416
-I walked in on them.
+Tớ bắt tại trận.
 
 401
 00:17:02,458 --> 00:17:05,500
-Rex told her you and me
-were a thing? Ugh.
+Rex nói với cô ta cậu và mình là một cặp?
 
 402
 00:17:05,541 --> 00:17:06,666
-Huh, what?
+Hả, gì cơ?
 
 403
 00:17:06,708 --> 00:17:09,000
-That's... crazy.
+Nó thật... điên rồ.
 
 404
 00:17:09,041 --> 00:17:10,976
-I didn't want to say it
-while you were dating the guy,
+Tớ không muốn nói điều này khi cậu còn đang hẹn hò với ổng,
 
 405
 00:17:11,000 --> 00:17:12,833
-but what an asshole.
+nhưng thật là một tên khốn nạn.
 
 406
 00:17:12,875 --> 00:17:14,625
-He wasn't always,
+Anh ta không phải bao giờ cũng vậy...
 
 407
 00:17:14,666 --> 00:17:15,666
-but... yeah.
+cho dù vậy...
 
 408
 00:17:16,666 --> 00:17:18,833
-Well, that sucks.
+Chà, tệ thật đấy.
 
 409
 00:17:18,875 --> 00:17:19,750
-I'm sorry.
+Mình xin lỗi.
 
 410
 00:17:19,791 --> 00:17:21,583
-Thanks.
+Cám ơn.
 
 411
 00:17:25,375 --> 00:17:29,250
